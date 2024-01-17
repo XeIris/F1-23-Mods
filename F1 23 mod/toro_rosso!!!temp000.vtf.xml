@@ -1,0 +1,3938 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--BxmlLittle-->
+<VTF>
+  <Engine>
+    <RevsPowerSpline numVertices="12">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="157.1" y="27486" op="=" />
+      <SplineElement x="471.2" y="130069" op="=" />
+      <SplineElement x="680.7" y="251202" op="=" />
+      <SplineElement x="890.1" y="400604" op="=" />
+      <SplineElement x="1047.2" y="536234" op="=" />
+      <SplineElement x="1099.6" y="585039" op="=" />
+      <SplineElement x="1151.9" y="603682" op="=" />
+      <SplineElement x="1183.3" y="601565" op="=" />
+      <SplineElement x="1217.4" y="599752" op="=" />
+      <SplineElement x="1282.8" y="587605" op="=" />
+      <SplineElement x="1570.8" y="499577" op="=" />
+    </RevsPowerSpline>
+    <ThrottleMap0 numVertices="2">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMap0>
+    <ThrottleMap1 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.15" op="=" />
+      <SplineElement x="0.2" y="0.42" op="=" />
+      <SplineElement x="0.3" y="0.63" op="=" />
+      <SplineElement x="0.4" y="0.85" op="=" />
+      <SplineElement x="0.5" y="1" op="=" />
+      <SplineElement x="0.6" y="1" op="=" />
+      <SplineElement x="0.7" y="1" op="=" />
+      <SplineElement x="0.8" y="1" op="=" />
+      <SplineElement x="0.9" y="1" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap1>
+    <ThrottleMap2 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.127" op="=" />
+      <SplineElement x="0.2" y="0.308" op="=" />
+      <SplineElement x="0.3" y="0.446" op="=" />
+      <SplineElement x="0.4" y="0.638" op="=" />
+      <SplineElement x="0.5" y="0.8" op="=" />
+      <SplineElement x="0.6" y="0.9" op="=" />
+      <SplineElement x="0.7" y="0.96" op="=" />
+      <SplineElement x="0.8" y="0.99" op="=" />
+      <SplineElement x="0.9" y="1" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap2>
+    <ThrottleMap3 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.095" op="=" />
+      <SplineElement x="0.2" y="0.24" op="=" />
+      <SplineElement x="0.3" y="0.35" op="=" />
+      <SplineElement x="0.4" y="0.478" op="=" />
+      <SplineElement x="0.5" y="0.63" op="=" />
+      <SplineElement x="0.6" y="0.767" op="=" />
+      <SplineElement x="0.7" y="0.92" op="=" />
+      <SplineElement x="0.8" y="0.965" op="=" />
+      <SplineElement x="0.9" y="1" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap3>
+    <ThrottleMap4 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.078" op="=" />
+      <SplineElement x="0.2" y="0.189" op="=" />
+      <SplineElement x="0.3" y="0.273" op="=" />
+      <SplineElement x="0.4" y="0.391" op="=" />
+      <SplineElement x="0.5" y="0.511" op="=" />
+      <SplineElement x="0.6" y="0.629" op="=" />
+      <SplineElement x="0.7" y="0.782" op="=" />
+      <SplineElement x="0.8" y="0.924" op="=" />
+      <SplineElement x="0.9" y="0.989" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap4>
+    <ThrottleMap5 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.064" op="=" />
+      <SplineElement x="0.2" y="0.146" op="=" />
+      <SplineElement x="0.3" y="0.216" op="=" />
+      <SplineElement x="0.4" y="0.312" op="=" />
+      <SplineElement x="0.5" y="0.415" op="=" />
+      <SplineElement x="0.6" y="0.515" op="=" />
+      <SplineElement x="0.7" y="0.642" op="=" />
+      <SplineElement x="0.8" y="0.773" op="=" />
+      <SplineElement x="0.9" y="0.914" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap5>
+    <ThrottleMap6 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.06" op="=" />
+      <SplineElement x="0.2" y="0.134" op="=" />
+      <SplineElement x="0.3" y="0.201" op="=" />
+      <SplineElement x="0.4" y="0.29" op="=" />
+      <SplineElement x="0.5" y="0.389" op="=" />
+      <SplineElement x="0.6" y="0.484" op="=" />
+      <SplineElement x="0.7" y="0.603" op="=" />
+      <SplineElement x="0.8" y="0.731" op="=" />
+      <SplineElement x="0.9" y="0.883" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap6>
+    <ThrottleMap7 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.059" op="=" />
+      <SplineElement x="0.2" y="0.129" op="=" />
+      <SplineElement x="0.3" y="0.196" op="=" />
+      <SplineElement x="0.4" y="0.284" op="=" />
+      <SplineElement x="0.5" y="0.384" op="=" />
+      <SplineElement x="0.6" y="0.479" op="=" />
+      <SplineElement x="0.7" y="0.597" op="=" />
+      <SplineElement x="0.8" y="0.729" op="=" />
+      <SplineElement x="0.9" y="0.891" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap7>
+    <ThrottleMap8 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.06" op="=" />
+      <SplineElement x="0.2" y="0.129" op="=" />
+      <SplineElement x="0.3" y="0.197" op="=" />
+      <SplineElement x="0.4" y="0.286" op="=" />
+      <SplineElement x="0.5" y="0.389" op="=" />
+      <SplineElement x="0.6" y="0.486" op="=" />
+      <SplineElement x="0.7" y="0.606" op="=" />
+      <SplineElement x="0.8" y="0.743" op="=" />
+      <SplineElement x="0.9" y="0.911" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap8>
+    <ThrottleMap9 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.061" op="=" />
+      <SplineElement x="0.2" y="0.129" op="=" />
+      <SplineElement x="0.3" y="0.198" op="=" />
+      <SplineElement x="0.4" y="0.288" op="=" />
+      <SplineElement x="0.5" y="0.394" op="=" />
+      <SplineElement x="0.6" y="0.493" op="=" />
+      <SplineElement x="0.7" y="0.615" op="=" />
+      <SplineElement x="0.8" y="0.758" op="=" />
+      <SplineElement x="0.9" y="0.932" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap9>
+    <ThrottleMap10 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.064" op="=" />
+      <SplineElement x="0.2" y="0.129" op="=" />
+      <SplineElement x="0.3" y="0.202" op="=" />
+      <SplineElement x="0.4" y="0.295" op="=" />
+      <SplineElement x="0.5" y="0.408" op="=" />
+      <SplineElement x="0.6" y="0.513" op="=" />
+      <SplineElement x="0.7" y="0.64" op="=" />
+      <SplineElement x="0.8" y="0.797" op="=" />
+      <SplineElement x="0.9" y="0.983" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap10>
+    <ThrottleMap11 numVertices="11">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.1" y="0.079" op="=" />
+      <SplineElement x="0.2" y="0.126" op="=" />
+      <SplineElement x="0.3" y="0.22" op="=" />
+      <SplineElement x="0.4" y="0.33" op="=" />
+      <SplineElement x="0.5" y="0.487" op="=" />
+      <SplineElement x="0.6" y="0.629" op="=" />
+      <SplineElement x="0.7" y="0.786" op="=" />
+      <SplineElement x="0.8" y="0.943" op="=" />
+      <SplineElement x="0.9" y="1" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ThrottleMap11>
+    <ThrottleMapClutchDisengaged0 numVertices="2">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged0>
+    <ThrottleMapClutchDisengaged1 numVertices="11">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.1" y="0.16" op="=" />
+      <SplineElement x="0.2" y="0.42" op="=" />
+      <SplineElement x="0.3" y="0.6" op="=" />
+      <SplineElement x="0.4" y="0.85" op="=" />
+      <SplineElement x="0.5" y="1.0" op="=" />
+      <SplineElement x="0.6" y="1.0" op="=" />
+      <SplineElement x="0.7" y="1.0" op="=" />
+      <SplineElement x="0.8" y="1.0" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged1>
+    <ThrottleMapClutchDisengaged2 numVertices="11">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.1" y="0.1" op="=" />
+      <SplineElement x="0.2" y="0.26" op="=" />
+      <SplineElement x="0.3" y="0.365" op="=" />
+      <SplineElement x="0.4" y="0.525" op="=" />
+      <SplineElement x="0.5" y="0.68" op="=" />
+      <SplineElement x="0.6" y="0.84" op="=" />
+      <SplineElement x="0.7" y="0.98" op="=" />
+      <SplineElement x="0.8" y="0.98" op="=" />
+      <SplineElement x="0.9" y="0.98" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged2>
+    <ThrottleMapClutchDisengaged3 numVertices="11">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.1" y="0.08" op="=" />
+      <SplineElement x="0.2" y="0.21" op="=" />
+      <SplineElement x="0.3" y="0.3" op="=" />
+      <SplineElement x="0.4" y="0.425" op="=" />
+      <SplineElement x="0.5" y="0.55" op="=" />
+      <SplineElement x="0.6" y="0.68" op="=" />
+      <SplineElement x="0.7" y="0.83" op="=" />
+      <SplineElement x="0.8" y="0.96" op="=" />
+      <SplineElement x="0.9" y="0.98" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged3>
+    <ThrottleMapClutchDisengaged4 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="0.98" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged4>
+    <ThrottleMapClutchDisengaged5 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="0.865" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged5>
+    <ThrottleMapClutchDisengaged6 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="0.975" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged6>
+    <ThrottleMapClutchDisengaged7 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged7>
+    <ThrottleMapClutchDisengaged8 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged8>
+    <ThrottleMapClutchDisengaged9 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged9>
+    <ThrottleMapClutchDisengaged10 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged10>
+    <ThrottleMapClutchDisengaged11 numVertices="5">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.19" op="=" />
+      <SplineElement x="0.8" y="0.25" op="=" />
+      <SplineElement x="0.9" y="1.0" op="=" />
+      <SplineElement x="1.0" y="1.0" op="=" />
+    </ThrottleMapClutchDisengaged11>
+    <RevsTurboLagSpline numVertices="4">
+      <SplineElement x="0" y="1" op="=" />
+      <SplineElement x="400" y="1" op="=" />
+      <SplineElement x="800" y="0" op="=" />
+      <SplineElement x="2200.000000" y="0.000000" op="=" />
+    </RevsTurboLagSpline>
+    <Mass value="145" />
+    <Inertia value="0.1" />
+    <RevsEngineBrakingSpline numVertices="8">
+      <SplineElement x="0.0" y="11" op="=" />
+      <SplineElement x="157.1" y="22" op="=" />
+      <SplineElement x="471.2" y="49" op="=" />
+      <SplineElement x="680.7" y="69" op="=" />
+      <SplineElement x="890.1" y="89" op="=" />
+      <SplineElement x="1151.9" y="110" op="=" />
+      <SplineElement x="1282.8" y="115" op="=" />
+      <SplineElement x="1570.8" y="124" op="=" />
+    </RevsEngineBrakingSpline>
+    <MaxEngineBrakingTorqueEngagedClutch value="15" />
+    <MinIdleRateFactor value="0.98" />
+    <MaxLimiterRateFactor value="1.08" />
+    <IdleRotationRate value="366.5" />
+    <LimiterRotationRate value="1561.3568" />
+    <EngineLayout value="RearInline" />
+    <TurboMode value="Full" />
+    <TempEfficiencySpline numVertices="4">
+      <SplineElement x="353.15" y="1" op="=" />
+      <SplineElement x="403.15" y="1" op="=" />
+      <SplineElement x="423.15" y="0.9" op="=" />
+      <SplineElement x="483.15" y="0.9" op="=" />
+    </TempEfficiencySpline>
+    <TempWearFactorSpline numVertices="5">
+      <SplineElement x="0" y="1" op="=" />
+      <SplineElement x="300" y="1" op="=" />
+      <SplineElement x="403.15" y="1" op="=" />
+      <SplineElement x="440" y="2.5" op="=" />
+      <SplineElement x="480" y="5" op="=" />
+    </TempWearFactorSpline>
+    <AntiStallSuccessSpline numVertices="5">
+      <SplineElement x="366.5" y="0.00" op="=" />
+      <SplineElement x="418.9" y="0.15" op="=" />
+      <SplineElement x="471.2" y="0.75" op="=" />
+      <SplineElement x="628.3" y="1" op="=" />
+      <SplineElement x="1570.8" y="1" op="=" />
+    </AntiStallSuccessSpline>
+    <AntiStallRumbleSpline numVertices="6">
+      <SplineElement x="366.5" y="0" op="=" />
+      <SplineElement x="733" y="0" op="=" />
+      <SplineElement x="837" y="0.5" op="=" />
+      <SplineElement x="942" y="0.5" op="=" />
+      <SplineElement x="1047" y="0" op="=" />
+      <SplineElement x="1361.3568" y="0" op="=" />
+    </AntiStallRumbleSpline>
+    <AntiStallRevsNeededToExit value="471.2" />
+    <AntiStallRevsLowEnoughToEnter value="366.5" />
+    <CoefHeatAbsorbed value="1" />
+    <SpecificHeatCapacity value="5000" />
+    <CoefHeatTransferConstant value="900" />
+    <CoefHeatTransferLinear value="9" />
+    <CoefHeatTransferQuadratic value="0.02" />
+    <RadiatorSurfaceArea value="13" />
+    <InitialTemperature value="383.15" />
+    <WearICERate value="0.024" />
+    <WearICERevsSpline numVertices="5">
+      <SplineElement x="1000" y="1" op="=" />
+      <SplineElement x="1150" y="2" op="=" />
+      <SplineElement x="1225" y="5" op="=" />
+      <SplineElement x="1309.0" y="16" op="=" />
+      <SplineElement x="1469.88" y="32" op="=" />
+    </WearICERevsSpline>
+    <WearICEPowerSpline numVertices="4">
+      <SplineElement x="0.000000" y="1.000000" op="=" />
+      <SplineElement x="0.5" y="0.98" op="=" />
+      <SplineElement x="0.9" y="0.94" op="=" />
+      <SplineElement x="1.000000" y="0.900000" op="=" />
+    </WearICEPowerSpline>
+    <WearTCRate value="0.046" />
+    <WearTCPowerSpline numVertices="5">
+      <SplineElement x="0.000000" y="1.000000" op="=" />
+      <SplineElement x="0.5" y="1.000000" op="=" />
+      <SplineElement x="0.75" y="0.98" op="=" />
+      <SplineElement x="0.9" y="0.94" op="=" />
+      <SplineElement x="1.000000" y="0.900000" op="=" />
+    </WearTCPowerSpline>
+    <WearMGUHRate value="0.024" />
+    <WearMGUHTempSpline numVertices="5">
+      <SplineElement x="300" y="1" op="=" />
+      <SplineElement x="360" y="1" op="=" />
+      <SplineElement x="375" y="1.3" op="=" />
+      <SplineElement x="400" y="2.6" op="=" />
+      <SplineElement x="450" y="6" op="=" />
+    </WearMGUHTempSpline>
+    <WearMGUHCoolingSpline numVertices="5">
+      <SplineElement x="0.000000" y="1.000000" op="=" />
+      <SplineElement x="0.5" y="1" op="=" />
+      <SplineElement x="0.75" y="0.9" op="=" />
+      <SplineElement x="0.9" y="0.7" op="=" />
+      <SplineElement x="1.000000" y="0.5" op="=" />
+    </WearMGUHCoolingSpline>
+    <WearCERate value="0.005" />
+    <WearCEVibrationMinWaveLength value="0.002" />
+    <WearCEVibrationMinmagnitude value="-0.01" />
+    <WearCEVibrationMinSpeed value="15" />
+    <WearCEVibrationMaxSpeed value="75" />
+    <WearCEDVibrationRate value="0.25" />
+    <WearCEPenaltySpline numVertices="5">
+      <SplineElement x="0.000000" y="1.000000" op="=" />
+      <SplineElement x="0.5" y="1.000000" op="=" />
+      <SplineElement x="0.75" y="1.25" op="=" />
+      <SplineElement x="0.9" y="2" op="=" />
+      <SplineElement x="1.000000" y="3" op="=" />
+    </WearCEPenaltySpline>
+    <KERSPower value="60000" />
+    <KERSCapacity value="400000.000000" />
+    <IdleFluctuationAmplitude value="2" />
+    <IdleFluctuationFrequency value="10" />
+    <RedLineThrottleCutTime value="0.016" />
+  </Engine>
+  <GearBox>
+    <FinalDriveRatio value="4.900" />
+    <GearRatioReverse value="-4.0000" />
+    <GearRatio1st value="3" />
+    <GearRatio2nd value="2.39" />
+    <GearRatio3rd value="1.975" />
+    <GearRatio4th value="1.65" />
+    <GearRatio5th value="1.415" />
+    <GearRatio6th value="1.235" />
+    <GearRatio7th value="1.09" />
+    <GearRatio8th value="0.97" />
+    <GearRatio9th value="0" />
+    <GearDnSpeedMultiple2nd value="0.68" />
+    <GearDnSpeedMultiple3rd value="0.82" />
+    <GearDnSpeedMultiple4th value="0.89" />
+    <GearDnSpeedMultiple5th value="0.94" />
+    <GearDnSpeedMultiple6th value="0.955" />
+    <GearDnSpeedMultiple7th value="0.97" />
+    <GearDnSpeedMultiple8th value="1.0" />
+    <GearUpSpeedMultiple1st value="0.905" />
+    <GearUpSpeedMultiple2nd value="0.995" />
+    <GearUpSpeedMultiple3rd value="1.041" />
+    <GearUpSpeedMultiple4th value="1.059" />
+    <GearUpSpeedMultiple5th value="1.068" />
+    <GearUpSpeedMultiple6th value="1.059" />
+    <GearUpSpeedMultiple7th value="1.054" />
+    <GearUpSpeedMultiple8th value="1.115" />
+    <GearUpPeakMaxFraction value="0.0" />
+    <MaxClutchTorque value="2.5" />
+    <MaxBaulkTorque1st value="5100" />
+    <MaxBaulkTorque2nd value="5050" />
+    <MaxBaulkTorque3rd value="5000" />
+    <MaxBaulkTorque4th value="4950" />
+    <MaxBaulkTorque5th value="4893" />
+    <MaxBaulkTorque6th value="4147" />
+    <MaxBaulkTorque7th value="3681" />
+    <MaxBaulkTorque8th value="3274" />
+    <UpshiftClutchTime value="0.033334" />
+    <UpshiftGearDelay value="0.033334" />
+    <TimeOffThrottleGearUp value="0.033334" />
+    <ThrottleGearUp value="0" />
+    <DownshiftClutchTime value="0.033334" />
+    <DownshiftGearDelay value="0.033334" />
+    <TimeOnThrottleGearDown value="0.033334" />
+    <ThrottleGearDown value="1.0" />
+    <ClutchLiftRate value="100" />
+    <ClutchLowThrottleBitePoint value="0.300000" />
+    <ClutchHighThrottleBitePoint value="0.700000" />
+    <FullClutchPoint value="1" />
+    <NoClutchPoint value="1.8" />
+    <VehicleStartClutchReleaseTime value="1.0" />
+    <PeakSlipRatioForGearUp value="0.6" />
+    <PeakSlipRatioForGearDown value="0.1" />
+    <SecondToFirstSpeedMultiple value="0.65" />
+    <GenericDownshiftMultiple value="0.82" />
+    <SpeedForReverseToFirstTransition value="1.000000" />
+    <DamageRateMidShift value="0.0006" />
+    <WearRate value="0.0" />
+    <OverrevvingDamageScale value="0.005" />
+    <TimeVulnerableAfterGearChange value="0.2" />
+    <DamageIncrementToTriggerFault value="0.05" />
+    <JammedGearPermanentThreshold value="0.96" />
+    <JammedGearPermanentChance value="5E-05" />
+    <JammedGearTemporaryThreshold value="0.9" />
+    <JammedGearTemporaryChance value="0.00015" />
+    <JammedGearTemporaryTimeMin value="30" />
+    <JammedGearTemporaryTimeMax value="120" />
+    <MissingGearThreshold value="0.7" />
+    <MissingGearChance value="8E-05" />
+    <MissingGearDurationMin value="90" />
+    <MissingGearDurationMax value="180" />
+    <ShiftTimeFaultThreshold value="0.8" />
+    <ShiftTimeFaultChance value="0.0001" />
+    <ShiftTimeFaultScaleMin value="60" />
+    <ShiftTimeFaultScaleMax value="120" />
+    <ShiftTimeFaultDurationMin value="90" />
+    <ShiftTimeFaultDurationMax value="240" />
+    <ShiftTimeFaultDamageScale value="4" />
+    <MaxSpeedForReverse value="10" />
+    <UpshiftTonePercentage1st value="96.5" />
+    <UpshiftTonePercentage2nd value="96" />
+    <UpshiftTonePercentage3rd value="96.5" />
+    <UpshiftTonePercentage4th value="97" />
+    <UpshiftTonePercentage5th value="97" />
+    <UpshiftTonePercentage6th value="98" />
+    <UpshiftTonePercentage7th value="97.5" />
+    <UpshiftTonePercentage8th value="100" />
+    <UpshiftTonePercentage9th value="100" />
+  </GearBox>
+  <FuelTank>
+    <FuelBsfcMax value="4.540E-05" />
+    <FuelBsfcMin value="4.350E-05" />
+    <FuelLHV value="42500" />
+    <FuelOptimalRevs value="1230" />
+    <FuelOptimalTorque value="600" />
+    <FuelRevsLinear value="0.012" />
+    <FuelTorqueLinear value="0.012" />
+    <FuelCapacity value="110" />
+    <COMY value="0.16" />
+    <COMZ value="0" />
+    <SizeX value="0" />
+    <SizeY value="0" />
+    <SizeZ value="0" />
+  </FuelTank>
+  <FuelECU>
+    <FuelBurnScaleLean value="0.7" />
+    <FuelBurnScaleStandard value="1" />    
+    <FuelBurnScaleRich value="1" />
+    <FuelBurnScaleMax value="1" />
+    <FuelPowerScaleLean value="0.9" />
+    <FuelPowerScaleStandard value="1.07" />
+    <FuelPowerScaleRich value="1.07" />
+    <FuelPowerScaleMax value="1.07" />
+    <FuelRevsScaleLean value="1" />
+    <FuelRevsScaleStandard value="1" />
+    <FuelRevsScaleRich value="1" />
+    <FuelRevsScaleMax value="1" />
+    <TemperatureScaleLean value="1" />
+    <TemperatureScaleStandard value="1" />
+    <TemperatureScaleRich value="1" />
+    <TemperatureScaleMax value="1" />
+  </FuelECU>
+  <BrakeECU>
+    <BrakeFront value="2887.5" />
+    <BrakeRear value="2362.5" />
+    <BrakeFrontBackwards value="2100" />
+    <BrakeRearBackwards value="3150" />
+    <BrakeFrontForwards value="3150" />
+    <BrakeRearForwards value="2100" />
+    <BrakeMigrationTorque value="1250" />
+    <BrakePressure value="0.9" />
+    <BrakeATCStrength value="0" />
+    <BrakeABSStrength value="0" />
+    <ATCActivationRate value="1" />
+    <ATCDeActivationRate value="0.052" />
+    <SpeedABSPeakSlipFactorSpline numVertices="4">
+      <SplineElement x="0.000000" y="1.2" op="=" />
+      <SplineElement x="12" y="1.2" op="=" />
+      <SplineElement x="30" y="0.98" op="=" />
+      <SplineElement x="100" y="0.94" op="=" />
+    </SpeedABSPeakSlipFactorSpline>
+    <SpeedABSPeakSlipFactorSplineWet numVertices="4">
+      <SplineElement x="0.000000" y="1.2" op="=" />
+      <SplineElement x="12" y="1.2" op="=" />
+      <SplineElement x="30" y="0.98" op="=" />
+      <SplineElement x="100" y="0.94" op="=" />
+    </SpeedABSPeakSlipFactorSplineWet>
+    <ABSActivationRate value="1" />
+    <ABSDeActivationRate value="0.052" />
+    <PunctureThrottleMax value="1.0" />
+    <BurstThrottleMax value="1.0" />
+    <SpeedATCPeakSlipFactorSpline numVertices="4">
+      <SplineElement x="0.0" y="2.5" op="=" />
+      <SplineElement x="13" y="2.5" op="=" />
+      <SplineElement x="35" y="0.97" op="=" />
+      <SplineElement x="100" y="0.89" op="=" />
+    </SpeedATCPeakSlipFactorSpline>
+    <SpeedATCPeakSlipFactorSplineWet numVertices="4">
+      <SplineElement x="0.4993758" y="1.6" op="=" />
+      <SplineElement x="11" y="1.6" op="=" />
+      <SplineElement x="30" y="0.96" op="=" />
+      <SplineElement x="100" y="0.85" op="=" />
+    </SpeedATCPeakSlipFactorSplineWet>
+    <ATCStrengthThrottleFactorSpline numVertices="3">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.5" op="=" />
+      <SplineElement x="1.0" y="0.95" op="=" />
+    </ATCStrengthThrottleFactorSpline>
+    <ATCStrengthThrottleFactorSplineWet numVertices="3">
+      <SplineElement x="0.0" y="0.0" op="=" />
+      <SplineElement x="0.5" y="0.48" op="=" />
+      <SplineElement x="1.0" y="0.96" op="=" />
+    </ATCStrengthThrottleFactorSplineWet>
+    <ATCStrengthPeakSlipFactorSpline numVertices="3">
+      <SplineElement x="0" y="1.4" op="=" />
+      <SplineElement x="0.5" y="1.4" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ATCStrengthPeakSlipFactorSpline>
+    <ATCStrengthPeakSlipFactorSplineWet numVertices="3">
+      <SplineElement x="0" y="1.3" op="=" />
+      <SplineElement x="0.5" y="1.3" op="=" />
+      <SplineElement x="1" y="1" op="=" />
+    </ATCStrengthPeakSlipFactorSplineWet>
+  </BrakeECU>
+  <Chassis>
+    <Mass value="736" />
+    <MOIX value="917" />
+    <MOIY value="2619" />
+    <MOIZ value="117" />
+    <COMY value="0.2" />
+    <COMZ value="0.0405" />
+    <FFBScale value="1" />
+    <FrontVisualHeightOffset value="0.057" />
+    <RearVisualHeightOffset value="0.082" />
+    <TyrePhysicsGroup value="2023" />
+  </Chassis>
+  <Steering>
+    <MaxSteeringLock value="0.261799388" />
+    <VisualTurnRate value="1.000000" />
+    <MinSpeedForWobble value="5.000000" />
+    <MaxSpeedForWobble value="44.000000" />
+    <MinDamageForWobble value="0.500000" />
+    <MaxDamageForWobble value="1.000000" />
+    <DamageWobbleRateA value="8.000000" />
+    <DamageWobbleRateB value="5.300000" />
+    <DamageWobbleAngle value="0.052360" />
+  </Steering>
+  <CoreAero>
+    <SlipStreaming value="true" />
+    <SlipStreamWhileBraking value="true" />
+  </CoreAero>
+  <Differential>
+    <DriveType value="RWD" />
+    <RearPowerProportion value="100" />
+    <DiffRearNoEffect value="-2.5" />
+    <DiffRearFullEffect value="2.5" />
+    <DiffOnThrottleMultiple value="0" />
+    <DiffOffThrottleMultiple value="0" />
+  </Differential>
+  <SuspensionSystem numBrakeTypes="2" numTyreTypes="2" numSuspensionTypes="2">
+    <Brake name="Rear">
+      <HandbrakeSupport value="true" />
+      <HandbrakeBrakeMultiple value="1.000000" />
+      <HandbrakeGripMultiple value="1.000000" />
+      <TempEfficiencySpline numVertices="5">
+        <SplineElement x="0" y="0.9" op="=" />
+        <SplineElement x="400" y="0.999" op="=" />
+        <SplineElement x="850" y="1" op="=" />
+        <SplineElement x="1150" y="0.96" op="=" />
+        <SplineElement x="1400" y="0.8" op="=" />
+      </TempEfficiencySpline>
+      <SpecificHeatCapacity value="300" />
+      <CoefHeatTransferConstant value="10" />
+      <CoefHeatTransferLinear value="2.2" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <MinDamageBrakeLoss value="0" />
+      <MaxBrakeLossPercent value="0" />
+      <DamageAccretionRate value="0" />
+    </Brake>
+    <Brake name="Front">
+      <HandbrakeSupport value="true" />
+      <HandbrakeBrakeMultiple value="1.000000" />
+      <HandbrakeGripMultiple value="1.000000" />
+      <TempEfficiencySpline numVertices="5">
+        <SplineElement x="0" y="0.9" op="=" />
+        <SplineElement x="400" y="0.999" op="=" />
+        <SplineElement x="850" y="1" op="=" />
+        <SplineElement x="1150" y="0.96" op="=" />
+        <SplineElement x="1400" y="0.8" op="=" />
+      </TempEfficiencySpline>
+      <SpecificHeatCapacity value="150" />
+      <CoefHeatTransferConstant value="10" />
+      <CoefHeatTransferLinear value="2.2" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <MinDamageBrakeLoss value="0" />
+      <MaxBrakeLossPercent value="0" />
+      <DamageAccretionRate value="0" />
+    </Brake>
+    <Tyre name="Rear">
+      <TyreLoadMax value="20000" />
+      <Mass value="22" />
+      <Inertia value="1.4256" />
+      <TyreWidth value="0.405" />
+      <TyreRadius value="0.36" />
+      <AlloyRadius value="0.2285" />
+      <MinGripMultiplier value="0.55" />
+      <MaxGripMultiplier value="1.000000" />
+      <GripMultiplier value="1.000000" />
+      <SlipAngleScale value="1.000000" />
+      <SlipRatioScale value="1.000000" />
+      <MaxCompression value="0.025" />
+      <PunctureWearMin value="0.750000" />
+      <PunctureWearMax value="1.0" />
+      <PunctureSpringConstantMultiplier value="0.400000" />
+      <PunctureSpringDampingMultiplier value="0.500000" />
+      <PunctureRadiusMultiplier value="0.800000" />
+      <PunctureGripMultiplier value="0.700000" />
+      <PunctureResistanceMultiplier value="100.0" />
+      <BlowoutMinTime value="0.500000" />
+      <BlowoutMaxTime value="10.000000" />
+      <BurstGripMultiplier value="1" />
+      <DebrisPunctureMinSpeed value="14.0" />
+      <DebrisPunctureMaxSpeed value="77.0" />
+      <DebrisPunctureProbabilityAtMinSpeed value="0.02" />
+      <DebrisPunctureProbabilityAtMaxSpeed value="0.2" />
+      <DebrisPunctureInvulnerabilityPeriod value="1.0" />
+      <DebrisNextGenPunctureProbabilityMultiplier value="1" />
+      <SlipAngleLimitDegrees value="90" />
+      <SlipRatioLimitDegrees value="90" />
+      <SlipRatioMinLimitAIDegrees value="-15" />
+      <SlipRatioMaxLimitAIDegrees value="90" />
+      <UpgradeWearFactor value="1.0" />
+      <UpgradeTempFactor value="1.0" />
+      <CollisionSpeedTyreDamageRateSpline numVertices="3">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="20.0" y="0.0" op="=" />
+        <SplineElement x="30.0" y="1.0" op="=" />
+      </CollisionSpeedTyreDamageRateSpline>
+      <PunctureSpeedTyreDamageRateSpline numVertices="4">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="80.0" y="0" op="=" />
+        <SplineElement x="90.0" y="0.1" op="=" />
+        <SplineElement x="120.0" y="0.4" op="=" />
+      </PunctureSpeedTyreDamageRateSpline>
+    </Tyre>
+    <Tyre name="Front">
+      <TyreLoadMax value="20000" />
+      <Mass value="17.3" />
+      <Inertia value="1.12104" />
+      <TyreWidth value="0.305" />
+      <TyreRadius value="0.36" />
+      <AlloyRadius value="0.2285" />
+      <MinGripMultiplier value="0.55" />
+      <MaxGripMultiplier value="1.000000" />
+      <GripMultiplier value="1.000000" />
+      <SlipAngleScale value="1.000000" />
+      <SlipRatioScale value="1.000000" />
+      <MaxCompression value="0.025" />
+      <PunctureWearMin value="0.750000" />
+      <PunctureWearMax value="1.0" />
+      <PunctureSpringConstantMultiplier value="0.400000" />
+      <PunctureSpringDampingMultiplier value="0.500000" />
+      <PunctureRadiusMultiplier value="0.800000" />
+      <PunctureGripMultiplier value="0.700000" />
+      <PunctureResistanceMultiplier value="100.0" />
+      <BlowoutMinTime value="0.500000" />
+      <BlowoutMaxTime value="10.000000" />
+      <BurstGripMultiplier value="1" />
+      <DebrisPunctureMinSpeed value="14.0" />
+      <DebrisPunctureMaxSpeed value="77.0" />
+      <DebrisPunctureProbabilityAtMinSpeed value="0.02" />
+      <DebrisPunctureProbabilityAtMaxSpeed value="0.2" />
+      <DebrisPunctureInvulnerabilityPeriod value="1.0" />
+      <DebrisNextGenPunctureProbabilityMultiplier value="1" />
+      <SlipAngleLimitDegrees value="90" />
+      <SlipRatioLimitDegrees value="90" />
+      <SlipRatioMinLimitAIDegrees value="-15" />
+      <SlipRatioMaxLimitAIDegrees value="90" />
+      <UpgradeWearFactor value="1.0" />
+      <UpgradeTempFactor value="1.0" />
+      <CollisionSpeedTyreDamageRateSpline numVertices="3">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="20.0" y="0.0" op="=" />
+        <SplineElement x="30.0" y="1.0" op="=" />
+      </CollisionSpeedTyreDamageRateSpline>
+      <PunctureSpeedTyreDamageRateSpline numVertices="4">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="80.0" y="0" op="=" />
+        <SplineElement x="90.0" y="0.1" op="=" />
+        <SplineElement x="120.0" y="0.4" op="=" />
+      </PunctureSpeedTyreDamageRateSpline>
+    </Tyre>
+    <Suspension name="Rear">
+      <TyreType value="Rear" />
+      <BrakeType value="Rear" />
+      <Camber value="-0.02618" />
+      <Castor value="0.0" />
+      <Toe value="-0.00349065975" />
+      <LocalRestPositionX value="0.7825" />
+      <LocalRestPositionY value="0" />
+      <LocalRestPositionZ value="-1.8" />
+      <UseModelPositions value="true" />
+      <LocalRenderPositionY value="-0.007" />
+      <MinHeight value="0" />
+      <MaxHeight value="0.1025" />
+      <RestLength value="0.065" />
+      <BumpStopHeight value="0.0625" />
+      <BumpStopSpringConst value="24368" />
+      <BumpStopRisingSpring value="6405313" />
+      <BumpStopInitialForce value="500" />
+      <BumpStopDamping value="3161" />
+      <BumpStopRisingDamping value="256213" />
+      <RideHeightOffset value="0" />
+      <RideHeightRenderOffset value="0" />
+      <WheelLinearFactor value="0.10" />
+      <WheelQuadraticFactor value="2.0" />
+      <WheelCamberFactor value="0.100000" />
+      <WheelLinearFactorNeg value="0" />
+      <WheelQuadraticFactorNeg value="0.000000" />
+      <WheelCamberFactorNeg value="0.000000" />
+      <WheelVisualCamber value="0.000000" />
+      <WheelVisualToe value="0.000000" />
+      <RollCentre value="0" />
+      <SpringConstant value="243684" />
+      <SlowBumpDamping value="6677" />
+      <FastBumpDamping value="3339" />
+      <FastReboundDamping value="7512" />
+      <SlowReboundDamping value="15024" />
+      <ThirdSpringConstant value="180831" />
+      <ThirdSpringDamping value="5752" />
+      <DampingZoneDivision value="0.1" />
+      <AntiRollConstant value="100592" />
+    </Suspension>
+    <Suspension name="Front">
+      <TyreType value="Front" />
+      <BrakeType value="Front" />
+      <Camber value="-0.05236" />
+      <Castor value="-0.226893" />
+      <Toe value="0.000872665" />
+      <LocalRestPositionX value="0.823" />
+      <LocalRestPositionY value="0" />
+      <LocalRestPositionZ value="1.8" />
+      <UseModelPositions value="true" />
+      <LocalRenderPositionY value="-0.02" />
+      <MinHeight value="0" />
+      <MaxHeight value="0.1025" />
+      <RestLength value="0.065" />
+      <BumpStopHeight value="0.0625" />
+      <BumpStopSpringConst value="22768" />
+      <BumpStopRisingSpring value="6032188" />
+      <BumpStopInitialForce value="500" />
+      <BumpStopDamping value="2965" />
+      <BumpStopRisingDamping value="241288" />
+      <RideHeightOffset value="0" />
+      <RideHeightRenderOffset value="0" />
+      <WheelLinearFactor value="-0.10" />
+      <WheelQuadraticFactor value="0.000000" />
+      <WheelCamberFactor value="0.100000" />
+      <WheelLinearFactorNeg value="0.000000" />
+      <WheelQuadraticFactorNeg value="0.000000" />
+      <WheelCamberFactorNeg value="0.000000" />
+      <WheelVisualCamber value="0.000000" />
+      <WheelVisualToe value="0.000000" />
+      <RollCentre value="0" />
+      <SpringConstant value="227685" />
+      <SlowBumpDamping value="6325" />
+      <FastBumpDamping value="3163" />
+      <FastReboundDamping value="7116" />
+      <SlowReboundDamping value="14232" />
+      <ThirdSpringConstant value="150499" />
+      <ThirdSpringDamping value="5143" />
+      <DampingZoneDivision value="0.1" />
+      <AntiRollConstant value="99799" />
+    </Suspension>
+  </SuspensionSystem>
+  <WheelProxies>
+    <CreateProxies value="true" />
+    <ExtraWidthFront value="0.05" />
+    <ExtraWidthRear value="0.03" />
+  </WheelProxies>
+  <ConvexHull>
+    <OffsetX value="0" />
+    <OffsetY value="0" />
+    <OffsetZ value="0" />
+    <BoxifyFrontWing value="false" />
+    <BoxifyRearWing value="false" />
+    <ConvexHullData numVertices="18" name="Chassis" generated="false">
+      <HullVertex x="0.789" y="-0.236" z="0.574" />
+      <HullVertex x="0.741" y="-0.225" z="-1.013" />
+      <HullVertex x="0.731" y="0.239" z="-0.041" />
+      <HullVertex x="0.38" y="-0.207" z="-2.243" />
+      <HullVertex x="-0.38" y="-0.207" z="-2.243" />
+      <HullVertex x="-0.38" y="0.192" z="-2.24" />
+      <HullVertex x="0.38" y="0.192" z="-2.24" />
+      <HullVertex x="0" y="0.823" z="-0.138" />
+      <HullVertex x="0" y="0.576" z="0.809" />
+      <HullVertex x="0.664" y="0.312" z="0.58" />
+      <HullVertex x="-0.741" y="-0.225" z="-1.013" />
+      <HullVertex x="0.493" y="-0.234" z="1.131" />
+      <HullVertex x="0.48" y="0.097" z="1.135" />
+      <HullVertex x="-0.48" y="0.097" z="1.135" />
+      <HullVertex x="-0.493" y="-0.234" z="1.131" />
+      <HullVertex x="-0.789" y="-0.236" z="0.574" />
+      <HullVertex x="-0.731" y="0.239" z="-0.041" />
+      <HullVertex x="-0.664" y="0.312" z="0.58" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="10" name="Chassis_plank" generated="false">
+      <HullVertex x="0.12" y="-0.254" z="-1.186" />
+      <HullVertex x="0.066" y="-0.006" z="-2.482" />
+      <HullVertex x="0.066" y="0.143" z="-2.481" />
+      <HullVertex x="-0.12" y="-0.014" z="1.357" />
+      <HullVertex x="-0.12" y="-0.254" z="-1.186" />
+      <HullVertex x="-0.12" y="-0.272" z="1.355" />
+      <HullVertex x="-0.066" y="-0.006" z="-2.482" />
+      <HullVertex x="0.12" y="-0.272" z="1.355" />
+      <HullVertex x="0.12" y="-0.014" z="1.357" />
+      <HullVertex x="-0.066" y="0.143" z="-2.481" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="10" name="Chassis_nose" generated="false">
+      <HullVertex x="0.089" y="-0.052" z="3.133" />
+      <HullVertex x="0.089" y="-0.144" z="3.132" />
+      <HullVertex x="0.215" y="0.012" z="0.853" />
+      <HullVertex x="0.235" y="0.412" z="0.855" />
+      <HullVertex x="-0.089" y="-0.144" z="3.132" />
+      <HullVertex x="-0.215" y="0.012" z="0.853" />
+      <HullVertex x="-0.089" y="-0.052" z="3.133" />
+      <HullVertex x="0.15" y="0.334" z="1.668" />
+      <HullVertex x="-0.235" y="0.412" z="0.855" />
+      <HullVertex x="-0.15" y="0.334" z="1.668" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="10" name="FrontWing" generated="false">
+      <HullVertex x="0" y="-0.154" z="3.119" />
+      <HullVertex x="0.971" y="-0.152" z="2.795" />
+      <HullVertex x="0.971" y="0.035" z="2.72" />
+      <HullVertex x="0" y="-0.092" z="3.12" />
+      <HullVertex x="0.971" y="-0.149" z="2.304" />
+      <HullVertex x="0.971" y="0.038" z="2.306" />
+      <HullVertex x="-0.971" y="0.035" z="2.72" />
+      <HullVertex x="-0.971" y="-0.152" z="2.795" />
+      <HullVertex x="-0.971" y="0.038" z="2.306" />
+      <HullVertex x="-0.971" y="-0.149" z="2.304" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="13" name="RearWing" generated="false">
+      <HullVertex x="0.441" y="0.132" z="-2.085" />
+      <HullVertex x="0.451" y="0.135" z="-2.474" />
+      <HullVertex x="0.61" y="0.533" z="-2.471" />
+      <HullVertex x="0.599" y="0.529" z="-1.931" />
+      <HullVertex x="0.575" y="0.669" z="-2.34" />
+      <HullVertex x="0" y="0.642" z="-1.967" />
+      <HullVertex x="-0.575" y="0.669" z="-2.34" />
+      <HullVertex x="0" y="0.13" z="-1.758" />
+      <HullVertex x="0" y="0.494" z="-1.819" />
+      <HullVertex x="-0.441" y="0.132" z="-2.085" />
+      <HullVertex x="-0.451" y="0.135" z="-2.474" />
+      <HullVertex x="-0.61" y="0.533" z="-2.471" />
+      <HullVertex x="-0.599" y="0.529" z="-1.931" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="8" name="Chassis_susp_fl" generated="false">
+      <HullVertex x="-0.1" y="0.028" z="1.961" />
+      <HullVertex x="-0.15" y="-0.005" z="1.452" />
+      <HullVertex x="-0.621" y="-0.005" z="1.692" />
+      <HullVertex x="-0.621" y="0.014" z="1.948" />
+      <HullVertex x="-0.1" y="0.275" z="1.884" />
+      <HullVertex x="-0.613" y="0.262" z="1.831" />
+      <HullVertex x="-0.613" y="0.256" z="1.682" />
+      <HullVertex x="-0.15" y="0.209" z="1.421" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="8" name="Chassis_susp_fr" generated="false">
+      <HullVertex x="0.1" y="0.028" z="1.961" />
+      <HullVertex x="0.15" y="-0.005" z="1.452" />
+      <HullVertex x="0.621" y="-0.005" z="1.692" />
+      <HullVertex x="0.621" y="0.014" z="1.948" />
+      <HullVertex x="0.1" y="0.275" z="1.884" />
+      <HullVertex x="0.613" y="0.262" z="1.831" />
+      <HullVertex x="0.613" y="0.256" z="1.682" />
+      <HullVertex x="0.15" y="0.209" z="1.421" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_floor_damage_r" generated="true">
+      <HullVertex x="-0.8015454" y="-0.3181466" z="-1.73776543" />
+      <HullVertex x="0.0001667738" y="0.0314834267" z="1.39192259" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_diffuser_bm" generated="true">
+      <HullVertex x="-0.422622919" y="-0.315936267" z="-2.23865485" />
+      <HullVertex x="0.422622859" y="0.0497003347" z="-1.73724377" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_nosecone" generated="true">
+      <HullVertex x="-0.251785517" y="-0.212919638" z="1.82507837" />
+      <HullVertex x="0.2517855" y="0.22313872" z="3.15268683" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_camera_wing" generated="true">
+      <HullVertex x="-0.126487419" y="0.6505552" z="-0.258114934" />
+      <HullVertex x="0.1265396" y="0.78004694" z="-0.0440890566" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_frontwing_fr_01" generated="true">
+      <HullVertex x="-0.8371794" y="-0.171672642" z="2.423951" />
+      <HullVertex x="-0.9646041" y="0.154840738" z="2.52952981" />
+      <HullVertex x="-0.9587214" y="-0.214334548" z="2.488458" />
+      <HullVertex x="-0.9638662" y="0.148762763" z="2.31658888" />
+      <HullVertex x="-0.998336852" y="-0.07975438" z="2.67104554" />
+      <HullVertex x="-0.9689489" y="0.15346387" z="2.62073183" />
+      <HullVertex x="-0.966247" y="0.153151155" z="2.30816936" />
+      <HullVertex x="-0.993801" y="-0.08020481" z="2.6926868" />
+      <HullVertex x="-0.9097413" y="-0.205195457" z="2.660207" />
+      <HullVertex x="-0.9697942" y="-0.07318421" z="2.757427" />
+      <HullVertex x="-1.00032759" y="-0.0783972442" z="2.64112663" />
+      <HullVertex x="-0.947390139" y="-0.21814087" z="2.49213862" />
+      <HullVertex x="-0.9994941" y="-0.006359551" z="2.35060787" />
+      <HullVertex x="-0.8421242" y="-0.149049968" z="2.37551641" />
+      <HullVertex x="-0.9725996" y="-0.138153508" z="2.30554" />
+      <HullVertex x="-1.00070417" y="-0.0209787283" z="2.3794992" />
+      <HullVertex x="-0.96623075" y="0.15405" z="2.31523871" />
+      <HullVertex x="-0.972092" y="0.136762917" z="2.637923" />
+      <HullVertex x="-0.944900632" y="-0.18794328" z="2.76140475" />
+      <HullVertex x="-0.956455469" y="0.144830108" z="2.63212633" />
+      <HullVertex x="-0.848442435" y="-0.124151491" z="2.39873958" />
+      <HullVertex x="-0.973961" y="0.145232409" z="2.621077" />
+      <HullVertex x="-0.965833247" y="0.150286913" z="2.306819" />
+      <HullVertex x="-0.967262864" y="-0.205404907" z="2.48582578" />
+      <HullVertex x="-0.9097413" y="-0.161562473" z="2.80238485" />
+      <HullVertex x="-0.860487938" y="-0.1589948" z="2.33197713" />
+      <HullVertex x="-0.837468565" y="-0.1730366" z="2.42794847" />
+      <HullVertex x="-0.9556089" y="0.148258567" z="2.62112474" />
+      <HullVertex x="-0.975407839" y="-0.1382891" z="2.30723977" />
+      <HullVertex x="-0.955909252" y="0.147186756" z="2.627067" />
+      <HullVertex x="-0.8374686" y="-0.187172443" z="2.42794061" />
+      <HullVertex x="-0.9097413" y="-0.169533044" z="2.80997181" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_frontflap_fr" generated="true">
+      <HullVertex x="-0.4818675" y="-0.0327177271" z="2.450153" />
+      <HullVertex x="-0.697229743" y="-0.06952664" z="2.370332" />
+      <HullVertex x="-0.21307987" y="-0.0389651135" z="2.62300038" />
+      <HullVertex x="-0.5627947" y="-0.040213652" z="2.41397524" />
+      <HullVertex x="-0.6156883" y="-0.111450635" z="2.42216468" />
+      <HullVertex x="-0.427807927" y="-0.0278942734" z="2.47921371" />
+      <HullVertex x="-0.215831637" y="-0.02786889" z="2.62311077" />
+      <HullVertex x="-0.265230566" y="-0.07123363" z="2.66241145" />
+      <HullVertex x="-0.5795862" y="-0.07422371" z="2.49596167" />
+      <HullVertex x="-0.535171866" y="-0.0334621519" z="2.42692161" />
+      <HullVertex x="-0.508063853" y="-0.0991295055" z="2.47733355" />
+      <HullVertex x="-0.427807927" y="-0.0311165676" z="2.47824574" />
+      <HullVertex x="-0.8653641" y="-0.127103657" z="2.332431" />
+      <HullVertex x="-0.286597878" y="-0.125694156" z="2.722183" />
+      <HullVertex x="-0.850277543" y="-0.179164708" z="2.449826" />
+      <HullVertex x="-0.7231766" y="-0.1326856" z="2.37970066" />
+      <HullVertex x="-0.243867576" y="-0.1298051" z="2.74041367" />
+      <HullVertex x="-0.7768932" y="-0.146541491" z="2.36608624" />
+      <HullVertex x="-0.8245829" y="-0.185540825" z="2.41209674" />
+      <HullVertex x="-0.342015028" y="-0.122310095" z="2.69031429" />
+      <HullVertex x="-0.20655" y="-0.09237741" z="2.66076565" />
+      <HullVertex x="-0.208431423" y="-0.12908268" z="2.75032187" />
+      <HullVertex x="-0.840046644" y="-0.164669454" z="2.35892153" />
+      <HullVertex x="-0.286596417" y="-0.12114507" z="2.71953249" />
+      <HullVertex x="-0.401333183" y="-0.123601317" z="2.65900874" />
+      <HullVertex x="-0.217734993" y="-0.0279441252" z="2.62272859" />
+      <HullVertex x="-0.286597878" y="-0.130639836" z="2.722181" />
+      <HullVertex x="-0.6694198" y="-0.121552885" z="2.39853239" />
+      <HullVertex x="-0.5825704" y="-0.067943275" z="2.486498" />
+      <HullVertex x="-0.206105053" y="-0.129043728" z="2.75083971" />
+      <HullVertex x="-0.851491332" y="-0.188451082" z="2.452004" />
+      <HullVertex x="-0.206327528" y="-0.1238955" z="2.705798" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_frontflap_fl" generated="true">
+      <HullVertex x="0.5615578" y="-0.104324043" z="2.44891262" />
+      <HullVertex x="0.401274085" y="-0.0283598751" z="2.4958477" />
+      <HullVertex x="0.866804838" y="-0.127790973" z="2.33217716" />
+      <HullVertex x="0.213079751" y="-0.03896512" z="2.62300038" />
+      <HullVertex x="0.697229564" y="-0.0695266" z="2.370332" />
+      <HullVertex x="0.562794566" y="-0.0402136" z="2.41397524" />
+      <HullVertex x="0.455114245" y="-0.028467454" z="2.46445274" />
+      <HullVertex x="0.615688145" y="-0.111450583" z="2.42216468" />
+      <HullVertex x="0.427807778" y="-0.0278942138" z="2.47921371" />
+      <HullVertex x="0.265230417" y="-0.0712335557" z="2.66241145" />
+      <HullVertex x="0.5795861" y="-0.07422371" z="2.49596167" />
+      <HullVertex x="0.5351717" y="-0.0334620923" z="2.42692161" />
+      <HullVertex x="0.286596268" y="-0.121144995" z="2.71953249" />
+      <HullVertex x="0.215831518" y="-0.0278688073" z="2.62311029" />
+      <HullVertex x="0.508063734" y="-0.0991294459" z="2.47733355" />
+      <HullVertex x="0.401274085" y="-0.03158216" z="2.49487972" />
+      <HullVertex x="0.865363955" y="-0.127103582" z="2.3324306" />
+      <HullVertex x="0.401333034" y="-0.123601235" z="2.65900874" />
+      <HullVertex x="0.286597729" y="-0.125694081" z="2.722183" />
+      <HullVertex x="0.776893" y="-0.146541461" z="2.36608624" />
+      <HullVertex x="0.206549883" y="-0.09237741" z="2.66076517" />
+      <HullVertex x="0.3717861" y="-0.122812323" z="2.67485547" />
+      <HullVertex x="0.217734873" y="-0.02794405" z="2.622728" />
+      <HullVertex x="0.8502774" y="-0.179164708" z="2.44982553" />
+      <HullVertex x="0.669419646" y="-0.121552825" z="2.39853239" />
+      <HullVertex x="0.8400465" y="-0.164669409" z="2.35892129" />
+      <HullVertex x="0.582570255" y="-0.067943275" z="2.486498" />
+      <HullVertex x="0.286597729" y="-0.130639762" z="2.722181" />
+      <HullVertex x="0.841102" y="-0.188931063" z="2.40820384" />
+      <HullVertex x="0.206104934" y="-0.129043743" z="2.75083947" />
+      <HullVertex x="0.8514913" y="-0.188451022" z="2.45200348" />
+      <HullVertex x="0.206327409" y="-0.123895422" z="2.70579743" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension3_br" generated="true">
+      <HullVertex x="-0.106414646" y="0.0614369139" z="-1.500535" />
+      <HullVertex x="-0.4582083" y="0.157197177" z="-1.860988" />
+      <HullVertex x="-0.108441845" y="0.126604557" z="-1.84046185" />
+      <HullVertex x="-0.5359644" y="0.195654616" z="-1.77409172" />
+      <HullVertex x="-0.543570042" y="0.188701674" z="-1.86115277" />
+      <HullVertex x="-0.0892156959" y="0.119746909" z="-1.831589" />
+      <HullVertex x="-0.441832274" y="0.158397973" z="-1.86186039" />
+      <HullVertex x="-0.522932649" y="0.173057929" z="-1.73157" />
+      <HullVertex x="-0.0746443942" y="0.04166596" z="-1.50018489" />
+      <HullVertex x="-0.109936595" y="0.115888864" z="-1.867797" />
+      <HullVertex x="-0.4423371" y="0.154488266" z="-1.86115074" />
+      <HullVertex x="-0.5360059" y="0.158095017" z="-1.83315659" />
+      <HullVertex x="-0.109934844" y="0.11160247" z="-1.86685872" />
+      <HullVertex x="-0.5330372" y="0.192001283" z="-1.75909281" />
+      <HullVertex x="-0.5205071" y="0.166041955" z="-1.729263" />
+      <HullVertex x="-0.120092317" y="0.0504356138" z="-1.48439407" />
+      <HullVertex x="-0.519232" y="0.1543452" z="-1.73575842" />
+      <HullVertex x="-0.08501312" y="0.03834383" z="-1.54337251" />
+      <HullVertex x="-0.520267248" y="0.148910359" z="-1.756426" />
+      <HullVertex x="-0.117959291" y="0.05873256" z="-1.48404026" />
+      <HullVertex x="-0.526278436" y="0.17900905" z="-1.73579657" />
+      <HullVertex x="-0.1100335" y="0.04025914" z="-1.504232" />
+      <HullVertex x="-0.529434144" y="0.186429754" z="-1.74495423" />
+      <HullVertex x="-0.5225692" y="0.148585141" z="-1.788682" />
+      <HullVertex x="-0.09941513" y="0.03800247" z="-1.52147257" />
+      <HullVertex x="-0.108441845" y="0.111409858" z="-1.86688435" />
+      <HullVertex x="-0.112802811" y="0.06217859" z="-1.4904319" />
+      <HullVertex x="-0.499054939" y="0.182181746" z="-1.86183667" />
+      <HullVertex x="-0.119748838" y="0.0550096557" z="-1.48292446" />
+      <HullVertex x="-0.5257186" y="0.1514288" z="-1.81067348" />
+      <HullVertex x="-0.108441845" y="0.115697414" z="-1.86782372" />
+      <HullVertex x="-0.108441845" y="0.132450134" z="-1.81312382" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension4_br" generated="true">
+      <HullVertex x="-0.4687815" y="0.177725941" z="-1.61688745" />
+      <HullVertex x="-0.08630067" y="0.127277926" z="-1.77210641" />
+      <HullVertex x="-0.51012665" y="0.159042358" z="-1.68614244" />
+      <HullVertex x="-0.08651104" y="0.132820487" z="-1.74991083" />
+      <HullVertex x="-0.47843644" y="0.171837822" z="-1.60343969" />
+      <HullVertex x="-0.107942864" y="0.116177574" z="-1.758301" />
+      <HullVertex x="-0.5005959" y="0.1825325" z="-1.65725315" />
+      <HullVertex x="-0.0887802" y="0.113845952" z="-1.75398" />
+      <HullVertex x="-0.1518491" y="0.126126617" z="-1.30110025" />
+      <HullVertex x="-0.44895792" y="0.163114429" z="-1.78316247" />
+      <HullVertex x="-0.0869440362" y="0.117646478" z="-1.78582776" />
+      <HullVertex x="-0.4722849" y="0.177401662" z="-1.611481" />
+      <HullVertex x="-0.49145" y="0.15846014" z="-1.64794469" />
+      <HullVertex x="-0.44290778" y="0.17051734" z="-1.75907385" />
+      <HullVertex x="-0.08913514" y="0.114087313" z="-1.74402225" />
+      <HullVertex x="-0.15591979" y="0.121490464" z="-1.27829754" />
+      <HullVertex x="-0.510193944" y="0.18270202" z="-1.73304927" />
+      <HullVertex x="-0.158258915" y="0.112929717" z="-1.27602518" />
+      <HullVertex x="-0.526946366" y="0.164686829" z="-1.78181469" />
+      <HullVertex x="-0.465229243" y="0.177668586" z="-1.62305355" />
+      <HullVertex x="-0.08638866" y="0.121603847" z="-1.78739429" />
+      <HullVertex x="-0.154325247" y="0.124024875" z="-1.28366125" />
+      <HullVertex x="-0.476896375" y="0.160975367" z="-1.60945773" />
+      <HullVertex x="-0.149568081" y="0.103842556" z="-1.32636547" />
+      <HullVertex x="-0.5301032" y="0.168823451" z="-1.78334737" />
+      <HullVertex x="-0.08676442" y="0.133786336" z="-1.74057639" />
+      <HullVertex x="-0.157268822" y="0.108058311" z="-1.284071" />
+      <HullVertex x="-0.5100775" y="0.158608377" z="-1.72442985" />
+      <HullVertex x="-0.158071011" y="0.117390409" z="-1.27428007" />
+      <HullVertex x="-0.08711642" y="0.133697316" z="-1.732213" />
+      <HullVertex x="-0.153925687" y="0.10412094" z="-1.303745" />
+      <HullVertex x="-0.4759254" y="0.175288916" z="-1.60590076" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension2_br" generated="true">
+      <HullVertex x="-0.0657644644" y="-0.0378192328" z="-1.84949052" />
+      <HullVertex x="-0.5441285" y="-0.004775552" z="-1.94281328" />
+      <HullVertex x="-0.06225494" y="-0.0172979161" z="-1.91945422" />
+      <HullVertex x="-0.06414268" y="-0.06068363" z="-1.91778207" />
+      <HullVertex x="-0.0606317855" y="-0.0281924047" z="-1.95719314" />
+      <HullVertex x="-0.5441318" y="-0.006967768" z="-1.89363956" />
+      <HullVertex x="-0.543843" y="-0.0200863723" z="-1.8733561" />
+      <HullVertex x="-0.0657013655" y="-0.04551851" z="-1.8521843" />
+      <HullVertex x="-0.5438682" y="-0.0316227451" z="-1.87375462" />
+      <HullVertex x="-0.06543731" y="-0.05148136" z="-1.85843122" />
+      <HullVertex x="-0.06564972" y="-0.029547289" z="-1.85043776" />
+      <HullVertex x="-0.06507255" y="-0.05591953" z="-1.86642468" />
+      <HullVertex x="-0.5441306" y="-0.039241083" z="-1.88618481" />
+      <HullVertex x="-0.5441322" y="-0.0115441233" z="-1.88206625" />
+      <HullVertex x="-0.0649871752" y="-0.0175603088" z="-1.86168313" />
+      <HullVertex x="-0.5441311" y="-0.03551837" z="-1.878649" />
+      <HullVertex x="-0.544130743" y="-0.0044681374" z="-1.90935862" />
+      <HullVertex x="-0.0597116053" y="-0.0397547334" z="-1.98176646" />
+      <HullVertex x="-0.06413993" y="-0.0132693276" z="-1.87779737" />
+      <HullVertex x="-0.5441294" y="-0.0329124779" z="-1.92635763" />
+      <HullVertex x="-0.5441322" y="-0.008718027" z="-1.88762069" />
+      <HullVertex x="-0.0615622662" y="-0.0526896641" z="-1.955749" />
+      <HullVertex x="-0.544128358" y="-0.0128759369" z="-1.96952343" />
+      <HullVertex x="-0.06138824" y="-0.0224050134" z="-1.93881762" />
+      <HullVertex x="-0.0596829951" y="-0.043737676" z="-1.98152506" />
+      <HullVertex x="-0.06465881" y="-0.05864942" z="-1.87485886" />
+      <HullVertex x="-0.5437418" y="-0.025981538" z="-1.87158549" />
+      <HullVertex x="-0.065366514" y="-0.0225210376" z="-1.85497785" />
+      <HullVertex x="-0.0645684" y="-0.0145398695" z="-1.86949718" />
+      <HullVertex x="-0.5441303" y="-0.039957203" z="-1.89478254" />
+      <HullVertex x="-0.06317283" y="-0.0137779415" z="-1.8987565" />
+      <HullVertex x="-0.544128358" y="-0.00894477" z="-1.96883261" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="31" name="x0_suspension_br" generated="true">
+      <HullVertex x="-0.07983566" y="-0.0445718542" z="-1.69076562" />
+      <HullVertex x="-0.0811386853" y="-0.06657345" z="-1.6910491" />
+      <HullVertex x="-0.07265777" y="-0.0172714032" z="-1.713579" />
+      <HullVertex x="-0.06952659" y="-0.0207008347" z="-1.7728039" />
+      <HullVertex x="-0.06757942" y="-0.07112266" z="-1.86785972" />
+      <HullVertex x="-0.0679228157" y="-0.0285935011" z="-1.80319762" />
+      <HullVertex x="-0.541275859" y="-0.005893357" z="-1.83064055" />
+      <HullVertex x="-0.543479562" y="-0.02111078" z="-1.86030221" />
+      <HullVertex x="-0.06473137" y="-0.0519222431" z="-1.87253225" />
+      <HullVertex x="-0.068568036" y="-0.07441513" z="-1.86174583" />
+      <HullVertex x="-0.08076843" y="-0.055381164" z="-1.68961477" />
+      <HullVertex x="-0.5215301" y="-0.04160761" z="-1.73388374" />
+      <HullVertex x="-0.0779091641" y="-0.0344702527" z="-1.69440579" />
+      <HullVertex x="-0.5218244" y="-0.007455867" z="-1.73121631" />
+      <HullVertex x="-0.08065704" y="-0.0763789" z="-1.69500363" />
+      <HullVertex x="-0.08178398" y="-0.0932592" z="-1.71385" />
+      <HullVertex x="-0.5251302" y="-0.0549206845" z="-1.74827838" />
+      <HullVertex x="-0.07172844" y="-0.0146502107" z="-1.72767913" />
+      <HullVertex x="-0.5307769" y="0.0066743046" z="-1.77030563" />
+      <HullVertex x="-0.08174866" y="-0.09831095" z="-1.7421484" />
+      <HullVertex x="-0.07086029" y="-0.015441034" z="-1.74309623" />
+      <HullVertex x="-0.08293289" y="-0.0937556" z="-1.8017379" />
+      <HullVertex x="-0.5410815" y="-0.06438563" z="-1.82928586" />
+      <HullVertex x="-0.06635307" y="-0.06695025" z="-1.87255" />
+      <HullVertex x="-0.520481765" y="-0.0176940784" z="-1.72572851" />
+      <HullVertex x="-0.5292797" y="-0.0613854155" z="-1.76825511" />
+      <HullVertex x="-0.52611655" y="0.00364206359" z="-1.748881" />
+      <HullVertex x="-0.5441505" y="-0.047008317" z="-1.9042269" />
+      <HullVertex x="-0.537014365" y="0.00263056159" z="-1.8017354" />
+      <HullVertex x="-0.544151664" y="-0.0509376973" z="-1.90357316" />
+      <HullVertex x="-0.0650657639" y="-0.0474998653" z="-1.86514616" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_floor_damage_l" generated="true">
+      <HullVertex x="-0.0001668334" y="-0.318146735" z="-1.73776543" />
+      <HullVertex x="0.8015453" y="0.0314833522" z="1.39192259" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="26" name="x0_frontwing_fl_01" generated="true">
+      <HullVertex x="0.972092152" y="0.136762992" z="2.637923" />
+      <HullVertex x="0.963866353" y="0.148762763" z="2.31658888" />
+      <HullVertex x="0.99833703" y="-0.07975431" z="2.67104554" />
+      <HullVertex x="0.9697944" y="-0.07318414" z="2.757427" />
+      <HullVertex x="0.9473903" y="-0.218140855" z="2.49213862" />
+      <HullVertex x="0.958838046" y="0.148851871" z="2.63443017" />
+      <HullVertex x="0.9662472" y="0.1531512" z="2.30816936" />
+      <HullVertex x="0.9938012" y="-0.0802047253" z="2.6926868" />
+      <HullVertex x="1.00070429" y="-0.0209786911" z="2.3794992" />
+      <HullVertex x="1.00032783" y="-0.0783971846" z="2.64112687" />
+      <HullVertex x="0.8421244" y="-0.149049968" z="2.37551641" />
+      <HullVertex x="0.969917834" y="0.154895276" z="2.31102872" />
+      <HullVertex x="0.9725998" y="-0.138153479" z="2.30554" />
+      <HullVertex x="0.9739612" y="0.1452325" z="2.621077" />
+      <HullVertex x="0.9658334" y="0.150286928" z="2.306819" />
+      <HullVertex x="0.967263043" y="-0.205404863" z="2.48582578" />
+      <HullVertex x="0.8484426" y="-0.1241515" z="2.39873958" />
+      <HullVertex x="0.9564556" y="0.144830152" z="2.63212633" />
+      <HullVertex x="0.8604881" y="-0.1589948" z="2.331977" />
+      <HullVertex x="0.8374688" y="-0.17303659" z="2.42794752" />
+      <HullVertex x="0.849276066" y="-0.121870413" z="2.39407" />
+      <HullVertex x="0.909741461" y="-0.161562383" z="2.80238485" />
+      <HullVertex x="0.9556091" y="0.148258612" z="2.62112474" />
+      <HullVertex x="0.8374688" y="-0.187172413" z="2.42794037" />
+      <HullVertex x="0.955909431" y="0.1471868" z="2.627067" />
+      <HullVertex x="0.909741461" y="-0.169532955" z="2.80997181" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension2_bl" generated="true">
+      <HullVertex x="0.0657644644" y="-0.03781908" z="-1.84949052" />
+      <HullVertex x="0.5441285" y="-0.00477553345" z="-1.94281328" />
+      <HullVertex x="0.0622549467" y="-0.0172977634" z="-1.91945422" />
+      <HullVertex x="0.06414269" y="-0.0606834777" z="-1.91778207" />
+      <HullVertex x="0.060631793" y="-0.0281922519" z="-1.95719314" />
+      <HullVertex x="0.5441318" y="-0.006967753" z="-1.89363933" />
+      <HullVertex x="0.06570137" y="-0.0455183573" z="-1.8521843" />
+      <HullVertex x="0.543843031" y="-0.02008636" z="-1.87335587" />
+      <HullVertex x="0.5438682" y="-0.03162274" z="-1.87375438" />
+      <HullVertex x="0.06543732" y="-0.05148121" z="-1.85843122" />
+      <HullVertex x="0.06564972" y="-0.0295471363" z="-1.85043776" />
+      <HullVertex x="0.06507256" y="-0.05591938" z="-1.86642468" />
+      <HullVertex x="0.5441306" y="-0.039241083" z="-1.88618481" />
+      <HullVertex x="0.544132233" y="-0.0115441177" z="-1.88206613" />
+      <HullVertex x="0.06498718" y="-0.0175601561" z="-1.86168313" />
+      <HullVertex x="0.5441311" y="-0.0355183668" z="-1.87864888" />
+      <HullVertex x="0.544130743" y="-0.004468126" z="-1.90935838" />
+      <HullVertex x="0.0597116128" y="-0.03975458" z="-1.98176646" />
+      <HullVertex x="0.06413994" y="-0.0132691748" z="-1.87779737" />
+      <HullVertex x="0.544129431" y="-0.03291245" z="-1.92635751" />
+      <HullVertex x="0.544132233" y="-0.008718014" z="-1.88762069" />
+      <HullVertex x="0.0615622737" y="-0.0526895151" z="-1.955749" />
+      <HullVertex x="0.544128358" y="-0.0128759183" z="-1.96952343" />
+      <HullVertex x="0.0613882467" y="-0.02240486" z="-1.93881762" />
+      <HullVertex x="0.0596830025" y="-0.0437375233" z="-1.98152506" />
+      <HullVertex x="0.06465881" y="-0.05864927" z="-1.87485886" />
+      <HullVertex x="0.543741763" y="-0.02598153" z="-1.87158525" />
+      <HullVertex x="0.06536652" y="-0.0225208849" z="-1.85497785" />
+      <HullVertex x="0.06456841" y="-0.0145397168" z="-1.86949718" />
+      <HullVertex x="0.5441303" y="-0.0399571881" z="-1.89478219" />
+      <HullVertex x="0.06317284" y="-0.0137777887" z="-1.8987565" />
+      <HullVertex x="0.5441284" y="-0.008944754" z="-1.96883249" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="31" name="x0_suspension3_bl" generated="true">
+      <HullVertex x="0.5418838" y="0.1829781" z="-1.86082339" />
+      <HullVertex x="0.4503007" y="0.155528948" z="-1.86100709" />
+      <HullVertex x="0.542193" y="0.169023633" z="-1.84992552" />
+      <HullVertex x="0.529557467" y="0.154604957" z="-1.78867579" />
+      <HullVertex x="0.543699443" y="0.179794908" z="-1.8605386" />
+      <HullVertex x="0.106414646" y="0.06143727" z="-1.500535" />
+      <HullVertex x="0.458208323" y="0.157197192" z="-1.86098814" />
+      <HullVertex x="0.108441845" y="0.121586144" z="-1.85431182" />
+      <HullVertex x="0.5359645" y="0.195654616" z="-1.77409184" />
+      <HullVertex x="0.54357" y="0.188701674" z="-1.86115289" />
+      <HullVertex x="0.0892156959" y="0.119747296" z="-1.831589" />
+      <HullVertex x="0.5360059" y="0.158095017" z="-1.8331567" />
+      <HullVertex x="0.0746443942" y="0.0416663177" z="-1.50018489" />
+      <HullVertex x="0.442337215" y="0.154488251" z="-1.86115086" />
+      <HullVertex x="0.5330373" y="0.192001283" z="-1.759093" />
+      <HullVertex x="0.120092317" y="0.0504359752" z="-1.484394" />
+      <HullVertex x="0.5192319" y="0.1543452" z="-1.7357583" />
+      <HullVertex x="0.08501312" y="0.0383441932" z="-1.54337251" />
+      <HullVertex x="0.109936595" y="0.115889251" z="-1.86779726" />
+      <HullVertex x="0.117959291" y="0.05873292" z="-1.48404026" />
+      <HullVertex x="0.520267248" y="0.148910359" z="-1.7564261" />
+      <HullVertex x="0.1100335" y="0.0402595028" z="-1.50423217" />
+      <HullVertex x="0.529434144" y="0.186429754" z="-1.74495423" />
+      <HullVertex x="0.5225692" y="0.148585141" z="-1.788682" />
+      <HullVertex x="0.09941513" y="0.03800283" z="-1.52147281" />
+      <HullVertex x="0.108441845" y="0.1156978" z="-1.86782384" />
+      <HullVertex x="0.112802811" y="0.06217895" z="-1.49043179" />
+      <HullVertex x="0.499055" y="0.182181746" z="-1.86183691" />
+      <HullVertex x="0.5205071" y="0.166041955" z="-1.72926307" />
+      <HullVertex x="0.5257186" y="0.1514288" z="-1.81067348" />
+      <HullVertex x="0.108441845" y="0.132450536" z="-1.81312406" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension4_bl" generated="true">
+      <HullVertex x="0.4687815" y="0.177725941" z="-1.61688745" />
+      <HullVertex x="0.0863006562" y="0.127277926" z="-1.77210641" />
+      <HullVertex x="0.51012665" y="0.159042373" z="-1.68614244" />
+      <HullVertex x="0.08651102" y="0.132820487" z="-1.74991083" />
+      <HullVertex x="0.107942849" y="0.116177574" z="-1.758301" />
+      <HullVertex x="0.5005959" y="0.1825325" z="-1.65725315" />
+      <HullVertex x="0.0887801945" y="0.113845952" z="-1.75398" />
+      <HullVertex x="0.5272352" y="0.164996609" z="-1.783082" />
+      <HullVertex x="0.151849091" y="0.126126632" z="-1.30110025" />
+      <HullVertex x="0.08694403" y="0.117646478" z="-1.78582776" />
+      <HullVertex x="0.44895792" y="0.163114443" z="-1.78316247" />
+      <HullVertex x="0.08677046" y="0.118636623" z="-1.787131" />
+      <HullVertex x="0.4722849" y="0.177401662" z="-1.611481" />
+      <HullVertex x="0.1574861" y="0.120506376" z="-1.27548158" />
+      <HullVertex x="0.4759254" y="0.175288916" z="-1.60590076" />
+      <HullVertex x="0.158071011" y="0.117390409" z="-1.27428007" />
+      <HullVertex x="0.47843644" y="0.171837822" z="-1.60343969" />
+      <HullVertex x="0.158258885" y="0.112929717" z="-1.27602518" />
+      <HullVertex x="0.49145" y="0.15846014" z="-1.64794469" />
+      <HullVertex x="0.44290778" y="0.17051734" z="-1.75907385" />
+      <HullVertex x="0.08913511" y="0.114087313" z="-1.74402225" />
+      <HullVertex x="0.5101939" y="0.182702035" z="-1.73304927" />
+      <HullVertex x="0.526946366" y="0.164686829" z="-1.78181469" />
+      <HullVertex x="0.465229243" y="0.177668586" z="-1.62305355" />
+      <HullVertex x="0.5301032" y="0.168823451" z="-1.78334737" />
+      <HullVertex x="0.15400736" y="0.125878036" z="-1.29014564" />
+      <HullVertex x="0.1572688" y="0.108058311" z="-1.284071" />
+      <HullVertex x="0.0867643952" y="0.13378635" z="-1.74057639" />
+      <HullVertex x="0.142880112" y="0.112869218" z="-1.31527209" />
+      <HullVertex x="0.5100775" y="0.158608377" z="-1.72442985" />
+      <HullVertex x="0.08711641" y="0.133697316" z="-1.732213" />
+      <HullVertex x="0.153925657" y="0.10412094" z="-1.303745" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="30" name="x0_suspension_bl" generated="true">
+      <HullVertex x="0.06757942" y="-0.07112251" z="-1.86785972" />
+      <HullVertex x="0.06473137" y="-0.05192209" z="-1.87253225" />
+      <HullVertex x="0.07265777" y="-0.01727127" z="-1.713579" />
+      <HullVertex x="0.07086029" y="-0.0154409" z="-1.74309623" />
+      <HullVertex x="0.06635307" y="-0.06695009" z="-1.87255" />
+      <HullVertex x="0.0811386853" y="-0.0665733144" z="-1.6910491" />
+      <HullVertex x="0.08076843" y="-0.05538103" z="-1.68961477" />
+      <HullVertex x="0.07350326" y="-0.02434326" z="-1.702196" />
+      <HullVertex x="0.08173988" y="-0.09684976" z="-1.72822845" />
+      <HullVertex x="0.06952659" y="-0.0207007" z="-1.7728039" />
+      <HullVertex x="0.0679228157" y="-0.0285933483" z="-1.80319762" />
+      <HullVertex x="0.068568036" y="-0.0744149759" z="-1.86174583" />
+      <HullVertex x="0.08293289" y="-0.09375547" z="-1.8017379" />
+      <HullVertex x="0.08174866" y="-0.09831081" z="-1.7421484" />
+      <HullVertex x="0.07172844" y="-0.0146500766" z="-1.72767913" />
+      <HullVertex x="0.0650657639" y="-0.0474997126" z="-1.86514616" />
+      <HullVertex x="0.0779091641" y="-0.03447012" z="-1.69440579" />
+      <HullVertex x="0.541081548" y="-0.06438563" z="-1.82928586" />
+      <HullVertex x="0.5441518" y="-0.05093768" z="-1.90357327" />
+      <HullVertex x="0.5218245" y="-0.007455863" z="-1.73121643" />
+      <HullVertex x="0.5204819" y="-0.0176940821" z="-1.72572839" />
+      <HullVertex x="0.520297468" y="-0.0280273613" z="-1.72608209" />
+      <HullVertex x="0.521530151" y="-0.04160762" z="-1.73388362" />
+      <HullVertex x="0.5261166" y="0.00364206359" z="-1.74888086" />
+      <HullVertex x="0.5412759" y="-0.00589334965" z="-1.83064055" />
+      <HullVertex x="0.5251302" y="-0.05492068" z="-1.7482785" />
+      <HullVertex x="0.529279768" y="-0.0613854" z="-1.768255" />
+      <HullVertex x="0.5370144" y="0.002630569" z="-1.80173552" />
+      <HullVertex x="0.5307769" y="0.00667430833" z="-1.77030575" />
+      <HullVertex x="0.0671326444" y="-0.0552460067" z="-1.76935089" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_sidepod_fr" generated="true">
+      <HullVertex x="-0.7177342" y="-0.264201581" z="-1.73787189" />
+      <HullVertex x="-0.02719605" y="0.5303263" z="0.5106125" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_topcanopy_bm" generated="true">
+      <HullVertex x="-0.105956115" y="0.255647957" z="-1.73745942" />
+      <HullVertex x="0.105956115" y="0.6529293" z="-0.2978143" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_sidepod_fl" generated="true">
+      <HullVertex x="0.02719611" y="-0.264201581" z="-1.73787189" />
+      <HullVertex x="0.7177343" y="0.5303263" z="0.5106125" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_wing_mirror_l" generated="true">
+      <HullVertex x="0.228206411" y="0.2967985" z="0.6349323" />
+      <HullVertex x="0.6791627" y="0.4017084" z="0.8093791" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_wing_mirror_r" generated="true">
+      <HullVertex x="-0.679162741" y="0.296798348" z="0.6349323" />
+      <HullVertex x="-0.228206471" y="0.401708245" z="0.80937916" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension3_fl" generated="true">
+      <HullVertex x="0.619441152" y="-0.039769344" z="1.724662" />
+      <HullVertex x="0.619091332" y="-0.05154082" z="1.7248596" />
+      <HullVertex x="0.629805446" y="-0.0443682075" z="1.81366313" />
+      <HullVertex x="0.188519061" y="-0.0413653776" z="1.47857547" />
+      <HullVertex x="0.611379862" y="-0.0279141627" z="1.82962656" />
+      <HullVertex x="0.612779856" y="-0.0446726978" z="1.86746645" />
+      <HullVertex x="0.613908648" y="-0.05505147" z="1.85947835" />
+      <HullVertex x="0.189090341" y="-0.0361561552" z="1.49464655" />
+      <HullVertex x="0.6163004" y="-0.0307406522" z="1.76911545" />
+      <HullVertex x="0.618889868" y="-0.0561526865" z="1.73645175" />
+      <HullVertex x="0.616130054" y="-0.058314763" z="1.811475" />
+      <HullVertex x="0.148267582" y="-0.0267984755" z="1.85287559" />
+      <HullVertex x="0.189791322" y="-0.0396412462" z="1.4827981" />
+      <HullVertex x="0.155702278" y="-0.006620044" z="1.838457" />
+      <HullVertex x="0.6129947" y="-0.0279240813" z="1.81002057" />
+      <HullVertex x="0.6116952" y="-0.03725177" z="1.86339879" />
+      <HullVertex x="0.614519358" y="-0.02896332" z="1.79045856" />
+      <HullVertex x="0.6180265" y="-0.0353658572" z="1.7359587" />
+      <HullVertex x="0.1879834" y="-0.0335713364" z="1.50673556" />
+      <HullVertex x="0.619811654" y="-0.05828952" z="1.75070822" />
+      <HullVertex x="0.152039021" y="-0.0119449794" z="1.85118461" />
+      <HullVertex x="0.535018563" y="-0.0425886624" z="1.66255331" />
+      <HullVertex x="0.158443987" y="-0.006563396" z="1.81227267" />
+      <HullVertex x="0.185106575" y="-0.04729694" z="1.4780786" />
+      <HullVertex x="0.156872481" y="-0.00570159871" z="1.830156" />
+      <HullVertex x="0.6185013" y="-0.0531030819" z="1.72240615" />
+      <HullVertex x="0.6148429" y="-0.0582024455" z="1.83767068" />
+      <HullVertex x="0.6188954" y="-0.0382222" z="1.72221768" />
+      <HullVertex x="0.149019852" y="-0.0197873674" z="1.85556912" />
+      <HullVertex x="0.148627013" y="-0.0317053422" z="1.84597623" />
+      <HullVertex x="0.185106188" y="-0.0292295255" z="1.53104126" />
+      <HullVertex x="0.175194919" y="-0.05444254" z="1.50023437" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="31" name="x0_suspension2_fl" generated="true">
+      <HullVertex x="0.536575735" y="0.0616176724" z="1.78502965" />
+      <HullVertex x="0.537197948" y="0.08449305" z="1.757468" />
+      <HullVertex x="0.5307669" y="0.07610953" z="1.78924537" />
+      <HullVertex x="0.5451334" y="0.0592869371" z="1.756787" />
+      <HullVertex x="0.5574657" y="0.0664861649" z="1.7155627" />
+      <HullVertex x="0.5179022" y="0.09074825" z="1.76942241" />
+      <HullVertex x="0.528370261" y="0.07145935" z="1.793005" />
+      <HullVertex x="0.173340827" y="0.2068062" z="1.71433711" />
+      <HullVertex x="0.5313447" y="0.06495653" z="1.79080415" />
+      <HullVertex x="0.543687642" y="0.057608068" z="1.75586045" />
+      <HullVertex x="0.173173591" y="0.212708011" z="1.71231043" />
+      <HullVertex x="0.530156" y="0.08185163" z="1.78560531" />
+      <HullVertex x="0.524028361" y="0.08943223" z="1.75000286" />
+      <HullVertex x="0.243082881" y="0.196450114" z="1.68909669" />
+      <HullVertex x="0.514606655" y="0.0676439852" z="1.77958691" />
+      <HullVertex x="0.5239923" y="0.06535523" z="1.7490145" />
+      <HullVertex x="0.23087272" y="0.1865356" z="1.72690117" />
+      <HullVertex x="0.172754273" y="0.221640974" z="1.65441036" />
+      <HullVertex x="0.5500442" y="0.06059578" z="1.73386073" />
+      <HullVertex x="0.173147425" y="0.204741269" z="1.63191223" />
+      <HullVertex x="0.5562817" y="0.0656908" z="1.713261" />
+      <HullVertex x="0.173907921" y="0.2086943" z="1.62059927" />
+      <HullVertex x="0.5525415" y="0.07500936" z="1.7227695" />
+      <HullVertex x="0.172765419" y="0.217518747" z="1.62094784" />
+      <HullVertex x="0.17278403" y="0.223063275" z="1.67703" />
+      <HullVertex x="0.509618759" y="0.07835588" z="1.7888875" />
+      <HullVertex x="0.173588783" y="0.19689478" z="1.70690024" />
+      <HullVertex x="0.1735276" y="0.195630074" z="1.67531312" />
+      <HullVertex x="0.173485026" y="0.201337114" z="1.71266723" />
+      <HullVertex x="0.238947362" y="0.196827456" z="1.70886075" />
+      <HullVertex x="0.5393253" y="0.08369519" z="1.75867391" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension_fin_fl" generated="true">
+      <HullVertex x="0.5245906" y="-0.227459073" z="1.99261343" />
+      <HullVertex x="0.497473627" y="-0.23009935" z="1.87689054" />
+      <HullVertex x="0.616729736" y="-0.05188878" z="2.112973" />
+      <HullVertex x="0.6034594" y="0.201660559" z="2.03766966" />
+      <HullVertex x="0.6170946" y="0.111845717" z="2.09559536" />
+      <HullVertex x="0.613528252" y="0.28724274" z="1.69264054" />
+      <HullVertex x="0.6123491" y="-0.101291806" z="2.094443" />
+      <HullVertex x="0.616718531" y="0.06665648" z="2.109886" />
+      <HullVertex x="0.619661868" y="-0.172805518" z="1.86030984" />
+      <HullVertex x="0.5056206" y="-0.231459916" z="1.81883693" />
+      <HullVertex x="0.7542571" y="0.40188995" z="1.86468339" />
+      <HullVertex x="0.6167694" y="-0.02660697" z="2.1161108" />
+      <HullVertex x="0.6136218" y="-0.183237046" z="1.83145881" />
+      <HullVertex x="0.615642369" y="-0.0771683455" z="2.10695076" />
+      <HullVertex x="0.6121308" y="0.19683978" z="1.67273581" />
+      <HullVertex x="0.7647542" y="0.399044245" z="1.71097159" />
+      <HullVertex x="0.5034111" y="-0.2314612" z="1.818519" />
+      <HullVertex x="0.7653904" y="0.399179578" z="1.71317422" />
+      <HullVertex x="0.6159792" y="-0.182013184" z="1.83358026" />
+      <HullVertex x="0.746400833" y="0.40409115" z="1.86885118" />
+      <HullVertex x="0.763116062" y="0.3989079" z="1.709133" />
+      <HullVertex x="0.620729" y="-0.160292268" z="1.8946209" />
+      <HullVertex x="0.497102559" y="-0.22736606" z="1.89209867" />
+      <HullVertex x="0.593309939" y="0.2906928" z="1.90951526" />
+      <HullVertex x="0.7626196" y="0.402898461" z="1.85136509" />
+      <HullVertex x="0.5098201" y="-0.229518056" z="1.95999122" />
+      <HullVertex x="0.603342354" y="0.177514374" z="2.05268" />
+      <HullVertex x="0.759333849" y="0.402578" z="1.85831344" />
+      <HullVertex x="0.5035285" y="-0.22928828" z="1.81850576" />
+      <HullVertex x="0.6145254" y="0.196329147" z="1.67237353" />
+      <HullVertex x="0.5921052" y="0.294083446" z="1.85472035" />
+      <HullVertex x="0.5029897" y="-0.22683695" z="1.93811345" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="30" name="x0_suspension2_fr" generated="true">
+      <HullVertex x="-0.172880173" y="0.221535951" z="1.69498169" />
+      <HullVertex x="-0.526172042" y="0.07910769" z="1.79030728" />
+      <HullVertex x="-0.537197948" y="0.0844930559" z="1.7574681" />
+      <HullVertex x="-0.528370261" y="0.07145935" z="1.793005" />
+      <HullVertex x="-0.173340842" y="0.206806347" z="1.71433711" />
+      <HullVertex x="-0.5385196" y="0.05740519" z="1.775183" />
+      <HullVertex x="-0.1731736" y="0.21270819" z="1.71231043" />
+      <HullVertex x="-0.543687642" y="0.057608068" z="1.75586057" />
+      <HullVertex x="-0.172784045" y="0.223063439" z="1.67703" />
+      <HullVertex x="-0.514690161" y="0.08903821" z="1.7796036" />
+      <HullVertex x="-0.235919565" y="0.1945595" z="1.71920919" />
+      <HullVertex x="-0.524028361" y="0.08943224" z="1.75000286" />
+      <HullVertex x="-0.5177352" y="0.06527756" z="1.76939547" />
+      <HullVertex x="-0.23087272" y="0.186535731" z="1.72690117" />
+      <HullVertex x="-0.243082881" y="0.196450263" z="1.68909669" />
+      <HullVertex x="-0.172754288" y="0.221641138" z="1.65441036" />
+      <HullVertex x="-0.5500442" y="0.06059578" z="1.73386073" />
+      <HullVertex x="-0.173147425" y="0.204741433" z="1.63191223" />
+      <HullVertex x="-0.5562817" y="0.0656908" z="1.713261" />
+      <HullVertex x="-0.173907936" y="0.208694458" z="1.62059927" />
+      <HullVertex x="-0.5525415" y="0.07500936" z="1.72276962" />
+      <HullVertex x="-0.172765434" y="0.2175189" z="1.62094784" />
+      <HullVertex x="-0.509618759" y="0.07835588" z="1.7888875" />
+      <HullVertex x="-0.5393253" y="0.08369519" z="1.75867391" />
+      <HullVertex x="-0.173354566" y="0.19954811" z="1.65351129" />
+      <HullVertex x="-0.233221665" y="0.191109583" z="1.72477937" />
+      <HullVertex x="-0.173618779" y="0.1945269" z="1.69545925" />
+      <HullVertex x="-0.5239923" y="0.06535523" z="1.7490145" />
+      <HullVertex x="-0.1735888" y="0.196894944" z="1.70690024" />
+      <HullVertex x="-0.1735276" y="0.195630223" z="1.67531312" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension_fin_fr" generated="true">
+      <HullVertex x="-0.6170945" y="0.111845732" z="2.09559536" />
+      <HullVertex x="-0.505620539" y="-0.23145996" z="1.81883693" />
+      <HullVertex x="-0.616625845" y="0.04392468" z="2.1140883" />
+      <HullVertex x="-0.6135282" y="0.2872427" z="1.69264054" />
+      <HullVertex x="-0.6165722" y="0.0217412859" z="2.116553" />
+      <HullVertex x="-0.6035563" y="0.159173876" z="2.06286764" />
+      <HullVertex x="-0.612349033" y="-0.101291806" z="2.094443" />
+      <HullVertex x="-0.6167185" y="0.0666565" z="2.109886" />
+      <HullVertex x="-0.6196618" y="-0.1728055" z="1.86030984" />
+      <HullVertex x="-0.7532557" y="0.4053061" z="1.86416972" />
+      <HullVertex x="-0.503411055" y="-0.231461182" z="1.81851912" />
+      <HullVertex x="-0.7542571" y="0.40188992" z="1.86468339" />
+      <HullVertex x="-0.6167693" y="-0.0266069472" z="2.1161108" />
+      <HullVertex x="-0.612130761" y="0.196839765" z="1.67273581" />
+      <HullVertex x="-0.509820044" y="-0.229518071" z="1.95999134" />
+      <HullVertex x="-0.497473568" y="-0.230099365" z="1.87689054" />
+      <HullVertex x="-0.615979135" y="-0.1820132" z="1.83358026" />
+      <HullVertex x="-0.6156423" y="-0.0771683455" z="2.10695076" />
+      <HullVertex x="-0.7653903" y="0.399179578" z="1.71317422" />
+      <HullVertex x="-0.62072897" y="-0.160292283" z="1.8946209" />
+      <HullVertex x="-0.762619555" y="0.402898431" z="1.851365" />
+      <HullVertex x="-0.497098237" y="-0.2298208" z="1.891741" />
+      <HullVertex x="-0.7646651" y="0.403105557" z="1.844183" />
+      <HullVertex x="-0.5933099" y="0.2906928" z="1.90951526" />
+      <HullVertex x="-0.6136217" y="-0.183237061" z="1.83145881" />
+      <HullVertex x="-0.7657481" y="0.403387547" z="1.83476031" />
+      <HullVertex x="-0.6145253" y="0.196329117" z="1.67237353" />
+      <HullVertex x="-0.7593338" y="0.402578" z="1.85831344" />
+      <HullVertex x="-0.5035284" y="-0.2292883" z="1.81850576" />
+      <HullVertex x="-0.7647541" y="0.399044216" z="1.71097159" />
+      <HullVertex x="-0.50298965" y="-0.226836964" z="1.93811345" />
+      <HullVertex x="-0.59210515" y="0.294083416" z="1.85472035" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="29" name="x0_suspension3_fr" generated="true">
+      <HullVertex x="-0.614497" y="-0.04490052" z="1.86510086" />
+      <HullVertex x="-0.6202269" y="-0.0537099466" z="1.73761606" />
+      <HullVertex x="-0.619441152" y="-0.0397693478" z="1.724662" />
+      <HullVertex x="-0.629805446" y="-0.0443682149" z="1.81366313" />
+      <HullVertex x="-0.611379862" y="-0.0279141553" z="1.82962656" />
+      <HullVertex x="-0.612779856" y="-0.0446726978" z="1.86746645" />
+      <HullVertex x="-0.6139087" y="-0.05505146" z="1.85947835" />
+      <HullVertex x="-0.189090341" y="-0.0361560062" z="1.49464655" />
+      <HullVertex x="-0.6163004" y="-0.0307406634" z="1.76911545" />
+      <HullVertex x="-0.618889868" y="-0.0561526865" z="1.73645175" />
+      <HullVertex x="-0.616130054" y="-0.05831477" z="1.811475" />
+      <HullVertex x="-0.152425766" y="-0.03469515" z="1.8209964" />
+      <HullVertex x="-0.188519046" y="-0.04136522" z="1.47857547" />
+      <HullVertex x="-0.5350377" y="-0.0480644852" z="1.66256917" />
+      <HullVertex x="-0.148267582" y="-0.0267983042" z="1.85287559" />
+      <HullVertex x="-0.185106575" y="-0.0472967923" z="1.4780786" />
+      <HullVertex x="-0.155702278" y="-0.00661987346" z="1.838457" />
+      <HullVertex x="-0.6116952" y="-0.0372517668" z="1.86339879" />
+      <HullVertex x="-0.614519358" y="-0.02896333" z="1.79045856" />
+      <HullVertex x="-0.6180265" y="-0.0353658646" z="1.7359587" />
+      <HullVertex x="-0.1879834" y="-0.0335711837" z="1.50673556" />
+      <HullVertex x="-0.6185013" y="-0.05310309" z="1.72240615" />
+      <HullVertex x="-0.156872481" y="-0.00570142735" z="1.830156" />
+      <HullVertex x="-0.6148429" y="-0.0582024455" z="1.83767068" />
+      <HullVertex x="-0.6188954" y="-0.0382222" z="1.72221768" />
+      <HullVertex x="-0.149019852" y="-0.0197871961" z="1.85556912" />
+      <HullVertex x="-0.148627013" y="-0.03170517" z="1.84597623" />
+      <HullVertex x="-0.185106188" y="-0.0292293727" z="1.53104126" />
+      <HullVertex x="-0.175194919" y="-0.0544423833" z="1.50023437" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_frontspoiler_fm" generated="true">
+      <HullVertex x="-0.9097414" y="-0.169533089" z="2.80997157" />
+      <HullVertex x="0.135966256" y="-0.163954809" z="3.107563" />
+      <HullVertex x="0.6716401" y="-0.180307686" z="2.89293933" />
+      <HullVertex x="0.9097414" y="-0.160063982" z="2.78260684" />
+      <HullVertex x="-0.9097414" y="-0.160063982" z="2.78260684" />
+      <HullVertex x="-0.6716401" y="-0.180307686" z="2.89293933" />
+      <HullVertex x="-0.135966256" y="-0.191298082" z="3.07434988" />
+      <HullVertex x="0.286583483" y="-0.155723453" z="3.04937243" />
+      <HullVertex x="-0.7796849" y="-0.166630715" z="2.86018562" />
+      <HullVertex x="-0.50775224" y="-0.149825215" z="2.55410337" />
+      <HullVertex x="0.264642715" y="-0.148534" z="3.0403192" />
+      <HullVertex x="-0.255934775" y="-0.129981726" z="2.88007712" />
+      <HullVertex x="0.255934775" y="-0.129981726" z="2.88007712" />
+      <HullVertex x="0.9097414" y="-0.169533089" z="2.80997157" />
+      <HullVertex x="-0.452628821" y="-0.146576732" z="2.5830667" />
+      <HullVertex x="0.9097414" y="-0.1600649" z="2.79214287" />
+      <HullVertex x="-0.155064851" y="-0.171258911" z="3.09812021" />
+      <HullVertex x="-0.86793524" y="-0.175219133" z="2.43818116" />
+      <HullVertex x="0.135966256" y="-0.208057985" z="3.02122664" />
+      <HullVertex x="0.86627537" y="-0.170966774" z="2.44630766" />
+      <HullVertex x="0.9097414" y="-0.204736531" z="2.410306" />
+      <HullVertex x="-0.9097414" y="-0.218807146" z="2.509541" />
+      <HullVertex x="-0.135966256" y="-0.208057985" z="3.02122664" />
+      <HullVertex x="0.50775224" y="-0.149825156" z="2.55410337" />
+      <HullVertex x="0.9097414" y="-0.217092663" z="2.46899486" />
+      <HullVertex x="-0.9097414" y="-0.217092708" z="2.46899486" />
+      <HullVertex x="0.9097414" y="-0.207751572" z="2.41025114" />
+      <HullVertex x="-0.9097414" y="-0.207751617" z="2.410251" />
+      <HullVertex x="-0.86627537" y="-0.170966774" z="2.44630766" />
+      <HullVertex x="0.9097414" y="-0.218807146" z="2.509541" />
+      <HullVertex x="0.86793524" y="-0.175219133" z="2.43818116" />
+      <HullVertex x="-0.9097414" y="-0.204736575" z="2.41030574" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="2" name="x0_rearwing_top" generated="true">
+      <HullVertex x="-0.6116421" y="-0.00303521752" z="-2.46803951" />
+      <HullVertex x="0.6116421" y="0.5933453" z="-1.9288553" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="30" name="x0_suspension5_bl" generated="true">
+      <HullVertex x="0.138396949" y="0.138884127" z="-1.456256" />
+      <HullVertex x="0.128298491" y="0.160111353" z="-1.4012872" />
+      <HullVertex x="0.137473911" y="0.139961213" z="-1.45533168" />
+      <HullVertex x="0.124934" y="0.167740226" z="-1.4113003" />
+      <HullVertex x="0.147709042" y="0.142960951" z="-1.46509361" />
+      <HullVertex x="0.120258942" y="0.151176587" z="-1.40624344" />
+      <HullVertex x="0.143768385" y="0.132616147" z="-1.461635" />
+      <HullVertex x="0.116017759" y="0.151256725" z="-1.41226554" />
+      <HullVertex x="0.438246727" y="-0.013834998" z="-1.68834591" />
+      <HullVertex x="0.523981452" y="-0.0570543259" z="-1.74396384" />
+      <HullVertex x="0.439348817" y="-0.0144585371" z="-1.68915033" />
+      <HullVertex x="0.5211059" y="-0.04331048" z="-1.73085988" />
+      <HullVertex x="0.358705342" y="0.0235569477" z="-1.62998831" />
+      <HullVertex x="0.5076512" y="-0.03618273" z="-1.63955164" />
+      <HullVertex x="0.4372679" y="-0.0208848417" z="-1.68736589" />
+      <HullVertex x="0.160246581" y="0.130857646" z="-1.42377734" />
+      <HullVertex x="0.517300367" y="-0.06438826" z="-1.71165156" />
+      <HullVertex x="0.155130386" y="0.1400858" z="-1.47166193" />
+      <HullVertex x="0.36070478" y="0.0300369561" z="-1.63172352" />
+      <HullVertex x="0.5075902" y="-0.02901876" z="-1.63419032" />
+      <HullVertex x="0.1670354" y="0.132935986" z="-1.4165169" />
+      <HullVertex x="0.5086786" y="-0.0459605" z="-1.65134692" />
+      <HullVertex x="0.15303795" y="0.1305829" z="-1.432492" />
+      <HullVertex x="0.507724643" y="-0.00876227" z="-1.65963554" />
+      <HullVertex x="0.172374874" y="0.136630282" z="-1.41199672" />
+      <HullVertex x="0.510144" y="-0.0134771168" z="-1.67563033" />
+      <HullVertex x="0.510094047" y="-0.05444388" z="-1.66574419" />
+      <HullVertex x="0.5186149" y="-0.033977434" z="-1.71828175" />
+      <HullVertex x="0.175975" y="0.142356768" z="-1.41107225" />
+      <HullVertex x="0.151151046" y="0.127191275" z="-1.46820915" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="30" name="x0_suspension6_bl" generated="true">
+      <HullVertex x="0.213197142" y="-0.09100993" z="-1.26137173" />
+      <HullVertex x="0.5024946" y="-0.09491751" z="-1.57589293" />
+      <HullVertex x="0.507106066" y="-0.05651536" z="-1.513847" />
+      <HullVertex x="0.50765115" y="-0.06711457" z="-1.51066732" />
+      <HullVertex x="0.5059248" y="-0.0801855" z="-1.516191" />
+      <HullVertex x="0.503447533" y="-0.09492883" z="-1.59601867" />
+      <HullVertex x="0.505185544" y="-0.0927162245" z="-1.62375486" />
+      <HullVertex x="0.5133208" y="-0.07543474" z="-1.68872714" />
+      <HullVertex x="0.506818056" y="-0.05570857" z="-1.63188016" />
+      <HullVertex x="0.503911257" y="-0.04300267" z="-1.56186271" />
+      <HullVertex x="0.5040453" y="-0.043168474" z="-1.5436151" />
+      <HullVertex x="0.505223036" y="-0.05000198" z="-1.6104095" />
+      <HullVertex x="0.5045778" y="-0.0460554473" z="-1.58900511" />
+      <HullVertex x="0.5049126" y="-0.08743264" z="-1.5286777" />
+      <HullVertex x="0.502416849" y="-0.09254447" z="-1.54823792" />
+      <HullVertex x="0.5044082" y="-0.04537497" z="-1.5301007" />
+      <HullVertex x="0.5061558" y="-0.0503978431" z="-1.51969838" />
+      <HullVertex x="0.5084283" y="-0.0881361961" z="-1.653673" />
+      <HullVertex x="0.5130091" y="-0.08136372" z="-1.68686759" />
+      <HullVertex x="0.255142719" y="-0.08174459" z="-1.25067043" />
+      <HullVertex x="0.251998" y="-0.0781462938" z="-1.2575326" />
+      <HullVertex x="0.247132987" y="-0.0765498057" z="-1.26797354" />
+      <HullVertex x="0.256881863" y="-0.09271436" z="-1.25072348" />
+      <HullVertex x="0.257160962" y="-0.08777654" z="-1.24826872" />
+      <HullVertex x="0.251829982" y="-0.10151498" z="-1.264331" />
+      <HullVertex x="0.2549963" y="-0.09770997" z="-1.2565707" />
+      <HullVertex x="0.215290457" y="-0.101004854" z="-1.33618069" />
+      <HullVertex x="0.233496442" y="-0.104954362" z="-1.30034053" />
+      <HullVertex x="0.230481908" y="-0.0835231543" z="-1.30356622" />
+      <HullVertex x="0.214861214" y="-0.09521994" z="-1.3369137" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension5_br" generated="true">
+      <HullVertex x="-0.128298491" y="0.160111" z="-1.40128708" />
+      <HullVertex x="-0.137473911" y="0.139960855" z="-1.45533144" />
+      <HullVertex x="-0.124934" y="0.167739868" z="-1.41130018" />
+      <HullVertex x="-0.143768385" y="0.13261579" z="-1.46163476" />
+      <HullVertex x="-0.120258942" y="0.151176244" z="-1.40624344" />
+      <HullVertex x="-0.438246727" y="-0.0138353705" z="-1.68834567" />
+      <HullVertex x="-0.118073575" y="0.165709063" z="-1.4195174" />
+      <HullVertex x="-0.5220728" y="-0.06474365" z="-1.73553467" />
+      <HullVertex x="-0.439348817" y="-0.0144585073" z="-1.68915033" />
+      <HullVertex x="-0.5238836" y="-0.0623493642" z="-1.74360168" />
+      <HullVertex x="-0.358705342" y="0.0235565752" z="-1.62998819" />
+      <HullVertex x="-0.5076512" y="-0.03618273" z="-1.63955176" />
+      <HullVertex x="-0.4372679" y="-0.0208852142" z="-1.68736589" />
+      <HullVertex x="-0.160246581" y="0.130857289" z="-1.42377722" />
+      <HullVertex x="-0.507558465" y="-0.0213441551" z="-1.63183534" />
+      <HullVertex x="-0.517300367" y="-0.06438826" z="-1.7116518" />
+      <HullVertex x="-0.184903562" y="0.12517941" z="-1.49302" />
+      <HullVertex x="-0.36070478" y="0.0300365835" z="-1.63172352" />
+      <HullVertex x="-0.506279469" y="-0.00780788064" z="-1.64687979" />
+      <HullVertex x="-0.166925356" y="0.143136814" z="-1.46061468" />
+      <HullVertex x="-0.507724643" y="-0.00876224" z="-1.6596359" />
+      <HullVertex x="-0.167014658" y="0.153058216" z="-1.42983091" />
+      <HullVertex x="-0.5133825" y="-0.0212994367" z="-1.69414341" />
+      <HullVertex x="-0.1670354" y="0.132935628" z="-1.4165169" />
+      <HullVertex x="-0.5086787" y="-0.0459604859" z="-1.651347" />
+      <HullVertex x="-0.15303795" y="0.130582541" z="-1.4324919" />
+      <HullVertex x="-0.5186149" y="-0.033977434" z="-1.718282" />
+      <HullVertex x="-0.155130386" y="0.140085444" z="-1.47166193" />
+      <HullVertex x="-0.172374874" y="0.136629924" z="-1.41199648" />
+      <HullVertex x="-0.510144" y="-0.0134771019" z="-1.67563069" />
+      <HullVertex x="-0.5124308" y="-0.05949369" z="-1.68138814" />
+      <HullVertex x="-0.151151046" y="0.127190918" z="-1.468209" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="29" name="x0_suspension6_br" generated="true">
+      <HullVertex x="-0.213197142" y="-0.09101027" z="-1.26137173" />
+      <HullVertex x="-0.5024946" y="-0.09491749" z="-1.57589316" />
+      <HullVertex x="-0.507106" y="-0.056515336" z="-1.51384735" />
+      <HullVertex x="-0.5059248" y="-0.08018548" z="-1.51619136" />
+      <HullVertex x="-0.50765115" y="-0.06711455" z="-1.51066768" />
+      <HullVertex x="-0.5051855" y="-0.0927162" z="-1.62375522" />
+      <HullVertex x="-0.5034475" y="-0.09492881" z="-1.59601879" />
+      <HullVertex x="-0.5133207" y="-0.07543472" z="-1.68872714" />
+      <HullVertex x="-0.506818" y="-0.0557085462" z="-1.63188016" />
+      <HullVertex x="-0.5039112" y="-0.04300266" z="-1.561863" />
+      <HullVertex x="-0.504045248" y="-0.04316846" z="-1.54361534" />
+      <HullVertex x="-0.505223" y="-0.05000196" z="-1.61040962" />
+      <HullVertex x="-0.504577756" y="-0.04605543" z="-1.58900523" />
+      <HullVertex x="-0.502416849" y="-0.09254445" z="-1.54823816" />
+      <HullVertex x="-0.504912555" y="-0.0874326155" z="-1.52867782" />
+      <HullVertex x="-0.5061558" y="-0.050397817" z="-1.51969862" />
+      <HullVertex x="-0.5044082" y="-0.0453749448" z="-1.53010082" />
+      <HullVertex x="-0.513009131" y="-0.0813637152" z="-1.68686771" />
+      <HullVertex x="-0.255142719" y="-0.08174494" z="-1.25067031" />
+      <HullVertex x="-0.247132987" y="-0.07655015" z="-1.26797342" />
+      <HullVertex x="-0.251998" y="-0.07814664" z="-1.25753248" />
+      <HullVertex x="-0.257160962" y="-0.0877768844" z="-1.24826872" />
+      <HullVertex x="-0.256881863" y="-0.0927147046" z="-1.2507236" />
+      <HullVertex x="-0.2549963" y="-0.097710304" z="-1.2565707" />
+      <HullVertex x="-0.251829982" y="-0.101515338" z="-1.264331" />
+      <HullVertex x="-0.233496442" y="-0.10495472" z="-1.30034053" />
+      <HullVertex x="-0.215290457" y="-0.1010052" z="-1.33618069" />
+      <HullVertex x="-0.214861214" y="-0.09522029" z="-1.33691382" />
+      <HullVertex x="-0.230481908" y="-0.0835235" z="-1.30356622" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension_fl" generated="true">
+      <HullVertex x="0.200857759" y="0.19268088" z="1.84749293" />
+      <HullVertex x="0.5427124" y="0.195371941" z="1.69729936" />
+      <HullVertex x="0.5422176" y="0.1812257" z="1.64252543" />
+      <HullVertex x="0.5404218" y="0.197923064" z="1.71660364" />
+      <HullVertex x="0.5235091" y="0.165889949" z="1.6321584" />
+      <HullVertex x="0.559651852" y="0.187943518" z="1.65760565" />
+      <HullVertex x="0.159518272" y="0.190913931" z="1.8081075" />
+      <HullVertex x="0.5654814" y="0.1894826" z="1.66548216" />
+      <HullVertex x="0.5831475" y="0.172429681" z="1.783844" />
+      <HullVertex x="0.159364685" y="0.216244265" z="1.80840445" />
+      <HullVertex x="0.493803829" y="0.2040335" z="1.770429" />
+      <HullVertex x="0.580921054" y="0.181036383" z="1.80326819" />
+      <HullVertex x="0.242412776" y="0.204130873" z="1.84329176" />
+      <HullVertex x="0.5820083" y="0.1901697" z="1.80044949" />
+      <HullVertex x="0.549192667" y="0.183989972" z="1.64695346" />
+      <HullVertex x="0.582946658" y="0.19352445" z="1.79528189" />
+      <HullVertex x="0.5547284" y="0.186230972" z="1.65183175" />
+      <HullVertex x="0.159334332" y="0.21512711" z="1.78291774" />
+      <HullVertex x="0.3140099" y="0.136335582" z="1.523458" />
+      <HullVertex x="0.5372249" y="0.201497927" z="1.74693227" />
+      <HullVertex x="0.242151514" y="0.20750998" z="1.83737576" />
+      <HullVertex x="0.51911056" y="0.164688751" z="1.62986529" />
+      <HullVertex x="0.242558479" y="0.199127808" z="1.84679937" />
+      <HullVertex x="0.58161" y="0.174855053" z="1.794129" />
+      <HullVertex x="0.201053381" y="0.188912615" z="1.83913994" />
+      <HullVertex x="0.5889758" y="0.168679044" z="1.75778222" />
+      <HullVertex x="0.19575797" y="0.103757083" z="1.45778441" />
+      <HullVertex x="0.4950477" y="0.203207672" z="1.78517711" />
+      <HullVertex x="0.5932816" y="0.169615626" z="1.74225533" />
+      <HullVertex x="0.19837226" y="0.109979585" z="1.45928609" />
+      <HullVertex x="0.188326329" y="0.09379537" z="1.54124475" />
+      <HullVertex x="0.159317538" y="0.213009819" z="1.76252949" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="24" name="x0_suspension4_fl" generated="true">
+      <HullVertex x="0.1556599" y="0.03361428" z="1.849467" />
+      <HullVertex x="0.152588114" y="0.0400548838" z="1.93696928" />
+      <HullVertex x="0.15368934" y="0.0419093519" z="1.9158026" />
+      <HullVertex x="0.154877916" y="0.03917797" z="1.84955072" />
+      <HullVertex x="0.148003191" y="0.0133763021" z="1.95699918" />
+      <HullVertex x="0.148817554" y="0.0187179931" z="1.96387959" />
+      <HullVertex x="0.149995446" y="0.0258577429" z="1.96466482" />
+      <HullVertex x="0.151561573" y="0.0346585922" z="1.95507109" />
+      <HullVertex x="0.150228992" y="0.0126005067" z="1.92490256" />
+      <HullVertex x="0.155039966" y="0.0213172045" z="1.887228" />
+      <HullVertex x="0.155371845" y="0.0410804078" z="1.89051354" />
+      <HullVertex x="0.218410671" y="0.0144491754" z="1.96156764" />
+      <HullVertex x="0.218410671" y="0.0215435028" z="1.96192229" />
+      <HullVertex x="0.6214601" y="-0.005859904" z="1.90739942" />
+      <HullVertex x="0.5983176" y="-0.014033258" z="1.93901658" />
+      <HullVertex x="0.5982698" y="-0.009312637" z="1.948637" />
+      <HullVertex x="0.5982692" y="-0.00376533344" z="1.94755244" />
+      <HullVertex x="0.5983331" y="0.001615962" z="1.938409" />
+      <HullVertex x="0.5984353" y="0.00467686355" z="1.92197371" />
+      <HullVertex x="0.59849894" y="0.004374448" z="1.90115249" />
+      <HullVertex x="0.598504841" y="0.00128425471" z="1.8773675" />
+      <HullVertex x="0.598494649" y="-0.00294618867" z="1.85860431" />
+      <HullVertex x="0.598389864" y="-0.0126223676" z="1.88017511" />
+      <HullVertex x="0.5983559" y="-0.0159072913" z="1.91282678" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="32" name="x0_suspension_fr" generated="true">
+      <HullVertex x="-0.5427124" y="0.195371911" z="1.69729924" />
+      <HullVertex x="-0.5422176" y="0.181225687" z="1.64252543" />
+      <HullVertex x="-0.5404218" y="0.197923049" z="1.71660364" />
+      <HullVertex x="-0.1593885" y="0.202900365" z="1.7690078" />
+      <HullVertex x="-0.5235091" y="0.165889919" z="1.6321584" />
+      <HullVertex x="-0.5654814" y="0.189482585" z="1.66548216" />
+      <HullVertex x="-0.159518272" y="0.190914124" z="1.8081075" />
+      <HullVertex x="-0.583147466" y="0.172429666" z="1.783844" />
+      <HullVertex x="-0.159364685" y="0.216244444" z="1.80840445" />
+      <HullVertex x="-0.4938038" y="0.204033479" z="1.7704289" />
+      <HullVertex x="-0.242412776" y="0.204130858" z="1.84329176" />
+      <HullVertex x="-0.5820083" y="0.190169692" z="1.80044949" />
+      <HullVertex x="-0.5491926" y="0.183989942" z="1.64695346" />
+      <HullVertex x="-0.5829466" y="0.19352445" z="1.79528189" />
+      <HullVertex x="-0.5547283" y="0.186230958" z="1.65183175" />
+      <HullVertex x="-0.221753716" y="0.19255133" z="1.8459785" />
+      <HullVertex x="-0.3140099" y="0.136335552" z="1.52345788" />
+      <HullVertex x="-0.159334332" y="0.215127289" z="1.78291774" />
+      <HullVertex x="-0.5372248" y="0.201497912" z="1.74693227" />
+      <HullVertex x="-0.242151514" y="0.207509965" z="1.83737576" />
+      <HullVertex x="-0.5424492" y="0.175768748" z="1.64175653" />
+      <HullVertex x="-0.242558464" y="0.199127808" z="1.84679937" />
+      <HullVertex x="-0.581609964" y="0.174855039" z="1.79412889" />
+      <HullVertex x="-0.201053381" y="0.188912779" z="1.83913994" />
+      <HullVertex x="-0.5889757" y="0.168679029" z="1.75778222" />
+      <HullVertex x="-0.5191105" y="0.164688721" z="1.62986529" />
+      <HullVertex x="-0.593281567" y="0.169615611" z="1.74225533" />
+      <HullVertex x="-0.495047629" y="0.203207657" z="1.78517711" />
+      <HullVertex x="-0.19575797" y="0.10375724" z="1.45778441" />
+      <HullVertex x="-0.189653456" y="0.09205453" z="1.51640463" />
+      <HullVertex x="-0.159317538" y="0.21301" z="1.76252949" />
+      <HullVertex x="-0.188326329" y="0.0937955156" z="1.54124475" />
+    </ConvexHullData>
+    <ConvexHullData numVertices="24" name="x0_suspension4_fr" generated="true">
+      <HullVertex x="-0.1556599" y="0.0336144529" z="1.849467" />
+      <HullVertex x="-0.15368934" y="0.04190953" z="1.9158026" />
+      <HullVertex x="-0.152588114" y="0.0400550663" z="1.93696928" />
+      <HullVertex x="-0.154877931" y="0.03917814" z="1.84955072" />
+      <HullVertex x="-0.148003191" y="0.0133764846" z="1.95699918" />
+      <HullVertex x="-0.148817554" y="0.0187181868" z="1.96387959" />
+      <HullVertex x="-0.151561588" y="0.0346587747" z="1.95507109" />
+      <HullVertex x="-0.149995461" y="0.0258579347" z="1.96466482" />
+      <HullVertex x="-0.150228992" y="0.0126006892" z="1.92490256" />
+      <HullVertex x="-0.155039981" y="0.021317387" z="1.887228" />
+      <HullVertex x="-0.218410671" y="0.0144493589" z="1.96156764" />
+      <HullVertex x="-0.218410671" y="0.0215436928" z="1.96192229" />
+      <HullVertex x="-0.6214601" y="-0.00585990027" z="1.90739942" />
+      <HullVertex x="-0.5983176" y="-0.0140332505" z="1.93901658" />
+      <HullVertex x="-0.5982698" y="-0.009312637" z="1.948637" />
+      <HullVertex x="-0.5982692" y="-0.00376532972" z="1.94755244" />
+      <HullVertex x="-0.5983331" y="0.00161596574" z="1.938409" />
+      <HullVertex x="-0.5984353" y="0.004676869" z="1.92197371" />
+      <HullVertex x="-0.59849894" y="0.00437444076" z="1.90115249" />
+      <HullVertex x="-0.5985048" y="0.00128425471" z="1.8773675" />
+      <HullVertex x="-0.598494649" y="-0.00294619426" z="1.85860431" />
+      <HullVertex x="-0.5984572" y="-0.007393956" z="1.85867476" />
+      <HullVertex x="-0.598389864" y="-0.0126223713" z="1.88017511" />
+      <HullVertex x="-0.5983559" y="-0.0159072839" z="1.91282678" />
+    </ConvexHullData>
+  </ConvexHull>
+  <F1BodyDamage>
+    <Part>
+      <Name value="nosecone" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0" />
+      <DragGain value="0.005" />
+      <CoolantLoss value="0" />
+    </Part>
+    <Part>
+      <Name value="sidepod_fr" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0.01" />
+      <CoolantLoss value="0.25" />
+    </Part>
+    <Part>
+      <Name value="sidepod_fl" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0.01" />
+      <CoolantLoss value="0.25" />
+    </Part>
+    <Part>
+      <Name value="sidewing_fr" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.025" />
+      <DragGain value="0.005" />
+    </Part>
+    <Part>
+      <Name value="sidewing_fl" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.025" />
+      <DragGain value="0.005" />
+    </Part>
+    <Part>
+      <Name value="topcanopy_bm" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0.005" />
+    </Part>
+    <Part>
+      <Name value="rearwing_bl" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0" />
+    </Part>
+    <Part>
+      <Name value="rearwing_br" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0" />
+    </Part>
+    <Part>
+      <Name value="rearwing_top" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0" />
+    </Part>
+    <Part>
+      <Name value="diffuser_bm" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.1" />
+      <DragGain value="0" />
+    </Part>
+    <Part>
+      <Name value="camera_wing" />
+      <MaxDamage value="80" />
+    </Part>
+    <Part>
+      <Name value="wing_mirror_l" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.001" />
+      <DragGain value="-0.001" />
+    </Part>
+    <Part>
+      <Name value="wing_mirror_r" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.001" />
+      <DragGain value="-0.001" />
+    </Part>
+    <Part>
+      <Name value="bargeboard_fl" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0.01" />
+    </Part>
+    <Part>
+      <Name value="bargeboard_fr" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0.01" />
+    </Part>
+    <Part>
+      <Name value="floor_damage_l" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0" />
+    </Part>
+    <Part>
+      <Name value="floor_damage_r" />
+      <MaxDamage value="80" />
+      <AeroLoss value="0.05" />
+      <DragGain value="0" />
+    </Part>
+  </F1BodyDamage>
+  <F1Aero>
+    <BodyDragCoeffMin value="0.7175" />
+    <BodyDragCoeffMax value="0.618000031" />
+    <FrontCoeffLiftVsRideHeight numVertices="11">
+      <SplineElement x="0" y="1.022" op="=" />
+      <SplineElement x="0.1" y="1.178" op="=" />
+      <SplineElement x="0.2" y="1.308" op="=" />
+      <SplineElement x="0.3" y="1.296" op="=" />
+      <SplineElement x="0.4" y="1.159" op="=" />
+      <SplineElement x="0.5" y="1.018" op="=" />
+      <SplineElement x="0.6" y="0.852" op="=" />
+      <SplineElement x="0.7" y="0.674" op="=" />
+      <SplineElement x="0.8" y="0.534" op="=" />
+      <SplineElement x="0.9" y="0.41" op="=" />
+      <SplineElement x="1" y="0.269" op="=" />
+    </FrontCoeffLiftVsRideHeight>
+    <FrontCoeffLiftMultiplier value="0.95" />
+    <RearCoeffLiftVsRideHeight numVertices="11">
+      <SplineElement x="0" y="1.336" op="=" />
+      <SplineElement x="0.1" y="1.395" op="=" />
+      <SplineElement x="0.2" y="1.487" op="=" />
+      <SplineElement x="0.3" y="1.456" op="=" />
+      <SplineElement x="0.4" y="1.382" op="=" />
+      <SplineElement x="0.5" y="1.3" op="=" />
+      <SplineElement x="0.6" y="1.215" op="=" />
+      <SplineElement x="0.7" y="1.15" op="=" />
+      <SplineElement x="0.8" y="1.09" op="=" />
+      <SplineElement x="0.9" y="1.03" op="=" />
+      <SplineElement x="1" y="0.964" op="=" />
+    </RearCoeffLiftVsRideHeight>
+    <RearCoeffLiftMultiplier value="0.955" />
+    <NumFrontWingSettings value="50" />
+    <FrontWingCoL0 value="0.04" />
+    <FrontWingCoL1 value="0.0143366" />
+    <FrontWingCoL2 value="0" />
+    <FrontWingCoD0 value="0.048" />
+    <FrontWingCoD1 value="0.00303" />
+    <FrontWingCoD2 value="0.0015" />
+    <FrontCoLByWingDamageMult value="0.25" />
+    <NumRearWingSettings value="50" />
+    <RearWingCoL0 value="0.06" />
+    <RearWingCoL1 value="0.0182832014" />
+    <RearWingCoL2 value="0" />
+    <RearWingCoD0 value="0.10" />
+    <RearWingCoD1 value="0.00404" />
+    <RearWingCoD2 value="0.0055" />
+    <m_aero_front_wing_loss value="0.5" />
+    <m_aero_max_front_height value="0.0275" />
+    <m_aero_min_front_height value="0.065" />
+    <m_aero_max_rear_height value="0.0275" />
+    <m_aero_min_rear_height value="0.065" />
+    <m_aeroSlipStreamAirDensityScaleLift value="0.88" />
+    <m_aeroSlipStreamAirDensityScaleDrag value="0.83" />
+    <m_aeroSlipStreamCarWidth value="1.5" />
+    <m_aero_rear_wing_loss value="0.000000" />
+    <m_aero_wing_front_drag value="1.000000" />
+    <m_aero_wing_front_force value="1.000000" />
+    <m_aero_wing_rear_drag value="0.75" />
+    <m_aero_wing_rear_force value="0.75" />
+    <FrontForceDirectionMultiplier numVertices="4">
+      <SplineElement x="0" y="1" op="=" />
+      <SplineElement x="0.0523599" y="1" op="=" />
+      <SplineElement x="1.571" y="0.75" op="=" />
+      <SplineElement x="3.14159" y="0.75" op="=" />
+    </FrontForceDirectionMultiplier>
+    <RearForceDirectionMultiplier numVertices="4">
+      <SplineElement x="0" y="1" op="=" />
+      <SplineElement x="0.02618046237869" y="1" op="=" />
+      <SplineElement x="1.571" y="0.5" op="=" />
+      <SplineElement x="3.14159" y="0.5" op="=" />
+    </RearForceDirectionMultiplier>
+    <ForceVelocityMultiplier numVertices="2">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="120" y="0" op="=" />
+    </ForceVelocityMultiplier>
+    <DistanceDrivenCumulativeDRSFailureChance numVertices="2">
+      <SplineElement x="0" y="0.0" op="=" />
+      <SplineElement x="300000" y="0.1" op="=" />
+    </DistanceDrivenCumulativeDRSFailureChance>
+    <DRSRotationAngleRadians value="0.646" />
+    <DRSRotationJointAngleRatio value="0.5" />
+    <DRSOpenCloseSpeed value="6.00" />
+    <DRSFailTimeMin value="300" />
+    <DRSFailTimeMax value="900" />
+    <CentreOfDragZOffset value="0.6" />
+    <DragCoefficientSide value="2.7" />
+    <DragCoefficientTop value="4.0" />
+  </F1Aero>
+  <F1Assists>
+    <SteerOutRateVSSpeedSpline numVertices="2">
+      <SplineElement x="0" y="1.0" op="=" />
+      <SplineElement x="90" y="1.0" op="=" />
+    </SteerOutRateVSSpeedSpline>
+    <SteerInRateVSSpeedSpline numVertices="2">
+      <SplineElement x="0" y="1.0" op="=" />
+      <SplineElement x="90" y="1.0" op="=" />
+    </SteerInRateVSSpeedSpline>
+    <ReducedLockGivenBackVSRearSlipAngleSpline numVertices="6">
+      <SplineElement x="0" y="0" op="=" />
+      <SplineElement x="0.02" y="0" op="=" />
+      <SplineElement x="0.2" y="0.31" op="=" />
+      <SplineElement x="0.3" y="0.61" op="=" />
+      <SplineElement x="0.39" y="1.000" op="=" />
+      <SplineElement x="1" y="1.000" op="=" />
+    </ReducedLockGivenBackVSRearSlipAngleSpline>
+    <ThrottleVSRearPeakSlipRatioProportionSpline numVertices="4">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.9" y="1" op="=" />
+      <SplineElement x="1.6" y="0.9" op="=" />
+      <SplineElement x="4" y="0.9" op="=" />
+    </ThrottleVSRearPeakSlipRatioProportionSpline>
+    <ThrottleVSRearPeakSlipAngleProportionSpline numVertices="3">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.95" y="1" op="=" />
+      <SplineElement x="3" y="1" op="=" />
+    </ThrottleVSRearPeakSlipAngleProportionSpline>
+    <BrakeVSRearPeakSlipRatioProportionSpline numVertices="6">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.5" y="1.0" op="=" />
+      <SplineElement x="0.92" y="1" op="=" />
+      <SplineElement x="1.55" y="0.9" op="=" />
+      <SplineElement x="2.3" y="0.88" op="=" />
+      <SplineElement x="2.5" y="0.88" op="=" />
+    </BrakeVSRearPeakSlipRatioProportionSpline>
+    <ThrottleVSRearPeakSlipRatioProportionWetSpline numVertices="4">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.75" y="1" op="=" />
+      <SplineElement x="2.2" y="0.86" op="=" />
+      <SplineElement x="4" y="0.86" op="=" />
+    </ThrottleVSRearPeakSlipRatioProportionWetSpline>
+    <ThrottleVSRearPeakSlipAngleProportionWetSpline numVertices="3">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.95" y="1" op="=" />
+      <SplineElement x="3" y="1" op="=" />
+    </ThrottleVSRearPeakSlipAngleProportionWetSpline>
+    <BrakeVSRearPeakSlipRatioProportionWetSpline numVertices="6">
+      <SplineElement x="0.0" y="1.0" op="=" />
+      <SplineElement x="0.5" y="1.0" op="=" />
+      <SplineElement x="0.85" y="1" op="=" />
+      <SplineElement x="1.55" y="0.88" op="=" />
+      <SplineElement x="2.3" y="0.83" op="=" />
+      <SplineElement x="2.5" y="0.83" op="=" />
+    </BrakeVSRearPeakSlipRatioProportionWetSpline>
+    <MinimumSteeringLock value="0.01" />
+    <SteerDeadzone value="0.01" />
+    <SteerOutMultiple value="2.5" />
+    <SteerInMultiple value="8" />
+    <LockExtensionReductionRate value="2" />
+    <LinearVSNonLinearSteeringWeightMin value="0.9" />
+    <LinearVSNonLinearSteeringWeightMax value="0.87" />
+    <SpeedForSteeringWeightMin value="0" />
+    <SpeedForSteeringWeightMax value="0" />
+    <ExponentForNonLinearSteering value="1.5" />
+    <MultipleToReachNeededEngineTorque value="0.03" />
+    <WheelInertia value="0.009" />
+    <WheelSteeringDeadzoneIncrement value="0.01" />
+    <WheelSteeringSaturationMin value="1.0" />
+    <WheelSteeringSaturationMax value="3.0" />
+    <WheelThrottleSaturationMin value="1.0" />
+    <WheelThrottleSaturationMax value="3.0" />
+    <WheelBrakeSaturationMin value="1.0" />
+    <WheelBrakeSaturationMax value="3.0" />
+    <WheelThrottleDeadzoneMax value="0.05" />
+    <WheelBrakeDeadzoneMax value="0.05" />
+    <SteerModelSpeed0 value="22.35" />
+    <SteerModelMaxLock0 value="1.0" />
+    <SteerModelSteerInertia0 value="0.15" />
+    <SteerModelInputStiffness0 value="0.85" />
+    <SteerModelCounterSteerStiffness0 value="200.0" />
+    <SteerModelSpeed1 value="27.77" />
+    <SteerModelMaxLock1 value="0.66" />
+    <SteerModelSteerInertia1 value="0.18" />
+    <SteerModelInputStiffness1 value="0.5" />
+    <SteerModelCounterSteerStiffness1 value="220.0" />
+    <SteerModelSpeed2 value="92.0" />
+    <SteerModelMaxLock2 value="0.4" />
+    <SteerModelSteerInertia2 value="0.08" />
+    <SteerModelInputStiffness2 value="0.35" />
+    <SteerModelCounterSteerStiffness2 value="250.0" />
+  </F1Assists>
+  <F1Tuning>
+    <ChassisCOMZMin value="0.0405" />
+    <ChassisCOMZMax value="0.0405" />
+    <DifferentialOnThrottleMultipleMin value="0" />
+    <DifferentialOnThrottleMultipleMax value="2" />
+    <DifferentialOffThrottleMultipleMin value="0" />
+    <DifferentialOffThrottleMultipleMax value="1" />
+    <FrontSuspensionCamberMin value="-0.06109" />
+    <FrontSuspensionCamberMax value="-0.04363" />
+    <RearSuspensionCamberMin value="-0.03491" />
+    <RearSuspensionCamberMax value="-0.01745" />
+    <FrontSuspensionToeMin value="0.0" />
+    <FrontSuspensionToeMax value="0.00174533" />
+    <RearSuspensionToeMin value="-0.00174533" />
+    <RearSuspensionToeMax value="-0.0052359895" />
+    <FrontSuspensionRestLengthMin value="0.055" />
+    <FrontSuspensionRestLengthMax value="0.075" />
+    <RearSuspensionRestLengthMin value="0.055" />
+    <RearSuspensionRestLengthMax value="0.075" />
+    <FrontSuspensionSpringConstantMin value="114803" />
+    <FrontSuspensionSpringConstantMax value="340566" />
+    <RearSuspensionSpringConstantMin value="108074" />
+    <RearSuspensionSpringConstantMax value="379293" />
+    <FrontSuspensionAntiRollBarMin value="39920" />
+    <FrontSuspensionAntiRollBarMax value="159679" />
+    <RearSuspensionAntiRollBarMin value="34926" />
+    <RearSuspensionAntiRollBarMax value="166258" />
+    <BrakePressureMin value="0.8" />
+    <BrakePressureMax value="1" />
+    <FrontTyrePressureConfig value="23.5" />
+    <FrontTyrePressureMin value="22" />
+    <FrontTyrePressureMax value="25" />
+    <RearTyrePressureConfig value="21.5" />
+    <RearTyrePressureMin value="20" />
+    <RearTyrePressureMax value="23" />
+  </F1Tuning>
+  <F1Plank>
+    <OffsetX value="0" />
+    <OffsetY value="-0.07" />
+    <OffsetZ value="0.08" />
+    <ExtentX value="0.11" />
+    <ExtentY value="0" />
+    <ExtentZ value="1.38000" />
+  </F1Plank>
+  <F1SuspensionDamage>
+    <SpeedThreshold value="7" />
+    <FrontDamageScale value="0.001" />
+    <RearDamageScale value="0.0001" />
+    <WheelDetachScale value="1.000000" />
+    <PartsDetachScale value="1.0" />
+    <LinearFractureLimit value="50.0" />
+    <AngularFractureLimit value="30.0" />
+    <Linkage>
+      <Node value="suspension2_f" />
+      <Type value="rod" />
+    </Linkage>
+    <Linkage>
+      <Node value="suspension_f" />
+      <Type value="rod" />
+    </Linkage>
+    <Linkage>
+      <Node value="suspension4_f" />
+      <Type value="rod" />
+    </Linkage>
+    <Linkage>
+      <Node value="suspension5_f" />
+      <Type value="chickenwing" />
+    </Linkage>
+  </F1SuspensionDamage>
+  <F1WingDamage>
+    <SpeedThreshold value="3" />
+    <DamageScale value="0.0001" />
+    <ChassisDamageMultiple value="0.3" />
+    <SideDetachScale value="1" />
+    <FullDetachScale value="0.5" />
+    <frontwing_01_sizeX value="0.16" />
+    <frontwing_01_sizeY value="0.16" />
+    <frontwing_01_sizeZ value="0.22" />
+    <frontwing_02_sizeX value="0.12" />
+    <frontwing_02_sizeY value="0.16" />
+    <frontwing_02_sizeZ value="0.52" />
+    <frontflap_sizeX value="0.2" />
+    <frontflap_sizeY value="0.18" />
+    <frontflap_sizeZ value="0.8" />
+    <frontflap_angle value="0.785" />
+  </F1WingDamage>
+  <F1TyreDamage>
+    <Package value="F1_2021" />
+    <MinRotRate value="0.2" />
+    <MaxRotRate value="20.0" />
+    <MinDamageProgressionTime value="0.5" />
+    <MaxDamageProgressionTime value="4.5" />
+    <MinSlipAngle value="0.005" />
+    <MaxSlipAngle value="0.32" />
+    <MinSlipAngleForce value="0.0" />
+    <MaxSlipAngleForce value="70.0" />
+    <SlipAngleForceMult value="1.0" />
+    <AirResistanceMult value="0.002" />
+    <PunctureFillOutAmount value="0.05" />
+    <PhysicsNodeGraph numNodes="50" numUniqueNodes="50" name="x0_tyre_bl" generated="false">
+      <node index="0" x="-0.2168151" y="-0.009793875" z="0.2378691" cardinality="1" pinned="true">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="1" />
+      </node>
+      <node index="1" x="-0.2168151" y="0.1798671" z="0.155966" cardinality="1" pinned="true">
+        <cluster index="0" />
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="29" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="2" x="-0.2168151" y="0.2340844" z="-0.04338257" cardinality="1" pinned="true">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="3" x="-0.2168151" y="0.1120313" z="-0.2100633" cardinality="1" pinned="true">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="32" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="4" x="-0.2168151" y="-0.09438366" z="-0.218562" cardinality="1" pinned="true">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="31" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="5" x="-0.2168151" y="-0.229726" z="-0.06247909" cardinality="1" pinned="true">
+        <cluster index="5" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="6" x="-0.2168151" y="-0.19208" z="0.1406519" cardinality="1" pinned="true">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="30" />
+        <region index="1" />
+      </node>
+      <node index="7" x="0.2171352" y="-0.009794223" z="0.2378691" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="8" />
+        <cluster index="13" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="8" x="0.2171352" y="0.179867" z="0.1559663" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="38" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="9" x="0.2171352" y="0.2340846" z="-0.04338219" cardinality="1" pinned="true">
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="36" />
+        <cluster index="38" />
+        <cluster index="40" />
+        <region index="0" />
+      </node>
+      <node index="10" x="0.2171352" y="0.1120317" z="-0.2100632" cardinality="1" pinned="true">
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="11" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <cluster index="38" />
+        <region index="0" />
+      </node>
+      <node index="11" x="0.2171352" y="-0.09438347" z="-0.2185622" cardinality="1" pinned="true">
+        <cluster index="10" />
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="0" />
+      </node>
+      <node index="12" x="0.2171352" y="-0.2297259" z="-0.06247948" cardinality="1" pinned="true">
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="13" />
+        <cluster index="35" />
+        <cluster index="37" />
+        <cluster index="39" />
+        <region index="0" />
+      </node>
+      <node index="13" x="0.2171352" y="-0.1920803" z="0.1406515" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="12" />
+        <cluster index="13" />
+        <cluster index="37" />
+        <cluster index="39" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="14" x="-0.1518738" y="0.1477816" z="0.3191054" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="15" x="-0.1518738" y="0.3416085" z="0.08338013" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="16" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="16" x="-0.1518738" y="0.2781602" z="-0.215132" cardinality="1" pinned="false">
+        <cluster index="15" />
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <region index="2" />
+      </node>
+      <node index="17" x="-0.1518738" y="0.005214462" z="-0.3516456" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <region index="2" />
+      </node>
+      <node index="18" x="-0.1518738" y="-0.2716944" z="-0.2233624" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <cluster index="19" />
+        <region index="2" />
+      </node>
+      <node index="19" x="-0.1518738" y="-0.3440493" z="0.07311701" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="20" x="-0.1518738" y="-0.1573646" z="0.3145379" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="21" x="0.1521934" y="0.005217209" z="0.3518293" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="27" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="22" x="0.1521934" y="0.2783054" z="0.2152447" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="23" x="0.1521934" y="0.3417869" z="-0.08342338" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="45" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="24" x="0.1521934" y="0.1478591" z="-0.3192718" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="25" x="0.1521934" y="-0.1574468" z="-0.3147018" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="26" x="0.1521934" y="-0.344229" z="-0.07315513" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="27" x="0.1521934" y="-0.2718366" z="0.2234792" cardinality="1" pinned="false">
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="28" x="-0.2062954" y="-0.1372365" z="0.2960892" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <cluster index="30" />
+        <region index="1" />
+      </node>
+      <node index="29" x="-0.2062954" y="0.1459261" z="0.2919044" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="1" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="1" />
+      </node>
+      <node index="30" x="-0.2062953" y="-0.3170574" z="0.07731292" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="31" x="-0.2062953" y="-0.2581277" z="-0.1996816" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="5" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="32" x="-0.2062953" y="0.252114" z="-0.2072224" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="3" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="33" x="-0.2062953" y="0.3192035" z="0.06790962" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="34" x="-0.2062952" y="-0.004822487" z="-0.3263118" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="35" x="0.2049426" y="-0.1465045" z="-0.2929876" cardinality="1" pinned="false">
+        <cluster index="11" />
+        <cluster index="35" />
+        <region index="0" />
+      </node>
+      <node index="36" x="0.2049426" y="0.137723" z="-0.2972165" cardinality="1" pinned="false">
+        <cluster index="10" />
+        <cluster index="36" />
+        <region index="0" />
+      </node>
+      <node index="37" x="0.2049427" y="-0.3204109" z="-0.06813323" cardinality="1" pinned="false">
+        <cluster index="12" />
+        <cluster index="37" />
+        <region index="0" />
+      </node>
+      <node index="38" x="0.2049427" y="0.318242" z="-0.07763542" cardinality="1" pinned="false">
+        <cluster index="9" />
+        <cluster index="38" />
+        <region index="0" />
+      </node>
+      <node index="39" x="0.2049428" y="-0.2530417" z="0.208027" cardinality="1" pinned="false">
+        <cluster index="13" />
+        <cluster index="39" />
+        <region index="0" />
+      </node>
+      <node index="40" x="0.2049428" y="0.2591184" z="0.2004067" cardinality="1" pinned="false">
+        <cluster index="8" />
+        <cluster index="40" />
+        <region index="0" />
+      </node>
+      <node index="41" x="0.2049429" y="0.004873229" z="0.3275386" cardinality="1" pinned="false">
+        <cluster index="7" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="42" x="0.000160141" y="-0.2471479" z="0.2584959" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="43" x="0.000160141" y="-0.2471476" z="-0.2584963" cardinality="1" pinned="false">
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="44" x="0.000160141" y="0.005350007" z="-0.3575941" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="45" x="0.000160141" y="0.3576341" z="2.29E-07" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="23" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="46" x="0.000160141" y="0.2547697" z="0.2509871" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="47" x="0.000160141" y="0.005349737" z="0.3575941" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="42" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="48" x="0.000160141" y="0.2547699" z="-0.2509869" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="24" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="49" x="0.000160141" y="-0.3574742" z="-0.01069916" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+    </PhysicsNodeGraph>
+    <PhysicsNodeGraph numNodes="50" numUniqueNodes="50" name="x0_tyre_br" generated="false">
+      <node index="0" x="-0.2168151" y="-0.009793875" z="0.2378691" cardinality="1" pinned="true">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="1" />
+      </node>
+      <node index="1" x="-0.2168151" y="0.1798671" z="0.155966" cardinality="1" pinned="true">
+        <cluster index="0" />
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="29" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="2" x="-0.2168151" y="0.2340844" z="-0.04338257" cardinality="1" pinned="true">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="3" x="-0.2168151" y="0.1120313" z="-0.2100633" cardinality="1" pinned="true">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="32" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="4" x="-0.2168151" y="-0.09438366" z="-0.218562" cardinality="1" pinned="true">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="31" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="5" x="-0.2168151" y="-0.229726" z="-0.06247909" cardinality="1" pinned="true">
+        <cluster index="5" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="6" x="-0.2168151" y="-0.19208" z="0.1406519" cardinality="1" pinned="true">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="30" />
+        <region index="1" />
+      </node>
+      <node index="7" x="0.2171352" y="-0.009794223" z="0.2378691" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="8" />
+        <cluster index="13" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="8" x="0.2171352" y="0.179867" z="0.1559663" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="38" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="9" x="0.2171352" y="0.2340846" z="-0.04338219" cardinality="1" pinned="true">
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="36" />
+        <cluster index="38" />
+        <cluster index="40" />
+        <region index="0" />
+      </node>
+      <node index="10" x="0.2171352" y="0.1120317" z="-0.2100632" cardinality="1" pinned="true">
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="11" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <cluster index="38" />
+        <region index="0" />
+      </node>
+      <node index="11" x="0.2171352" y="-0.09438347" z="-0.2185622" cardinality="1" pinned="true">
+        <cluster index="10" />
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="0" />
+      </node>
+      <node index="12" x="0.2171352" y="-0.2297259" z="-0.06247948" cardinality="1" pinned="true">
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="13" />
+        <cluster index="35" />
+        <cluster index="37" />
+        <cluster index="39" />
+        <region index="0" />
+      </node>
+      <node index="13" x="0.2171352" y="-0.1920803" z="0.1406515" cardinality="1" pinned="true">
+        <cluster index="7" />
+        <cluster index="12" />
+        <cluster index="13" />
+        <cluster index="37" />
+        <cluster index="39" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="14" x="-0.1518738" y="0.1477816" z="0.3191054" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="15" x="-0.1518738" y="0.3416085" z="0.08338013" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="16" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="16" x="-0.1518738" y="0.2781602" z="-0.215132" cardinality="1" pinned="false">
+        <cluster index="15" />
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <region index="2" />
+      </node>
+      <node index="17" x="-0.1518738" y="0.005214462" z="-0.3516456" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <region index="2" />
+      </node>
+      <node index="18" x="-0.1518738" y="-0.2716944" z="-0.2233624" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <cluster index="19" />
+        <region index="2" />
+      </node>
+      <node index="19" x="-0.1518738" y="-0.3440493" z="0.07311701" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="17" />
+        <cluster index="18" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="20" x="-0.1518738" y="-0.1573646" z="0.3145379" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="19" />
+        <cluster index="20" />
+        <region index="2" />
+      </node>
+      <node index="21" x="0.1521934" y="0.005217209" z="0.3518293" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="27" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="22" x="0.1521934" y="0.2783054" z="0.2152447" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="23" x="0.1521934" y="0.3417869" z="-0.08342338" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="45" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="24" x="0.1521934" y="0.1478591" z="-0.3192718" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="25" x="0.1521934" y="-0.1574468" z="-0.3147018" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="26" x="0.1521934" y="-0.344229" z="-0.07315513" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="27" x="0.1521934" y="-0.2718366" z="0.2234792" cardinality="1" pinned="false">
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="28" x="-0.2062954" y="-0.1372365" z="0.2960892" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <cluster index="30" />
+        <region index="1" />
+      </node>
+      <node index="29" x="-0.2062954" y="0.1459261" z="0.2919044" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="1" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="1" />
+      </node>
+      <node index="30" x="-0.2062953" y="-0.3170574" z="0.07731292" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="31" x="-0.2062953" y="-0.2581277" z="-0.1996816" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="5" />
+        <cluster index="31" />
+        <region index="1" />
+      </node>
+      <node index="32" x="-0.2062953" y="0.252114" z="-0.2072224" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="3" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="33" x="-0.2062953" y="0.3192035" z="0.06790962" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="1" />
+      </node>
+      <node index="34" x="-0.2062952" y="-0.004822487" z="-0.3263118" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="4" />
+        <cluster index="34" />
+        <region index="1" />
+      </node>
+      <node index="35" x="0.2049426" y="-0.1465045" z="-0.2929876" cardinality="1" pinned="false">
+        <cluster index="11" />
+        <cluster index="35" />
+        <region index="0" />
+      </node>
+      <node index="36" x="0.2049426" y="0.137723" z="-0.2972165" cardinality="1" pinned="false">
+        <cluster index="10" />
+        <cluster index="36" />
+        <region index="0" />
+      </node>
+      <node index="37" x="0.2049427" y="-0.3204109" z="-0.06813323" cardinality="1" pinned="false">
+        <cluster index="12" />
+        <cluster index="37" />
+        <region index="0" />
+      </node>
+      <node index="38" x="0.2049427" y="0.318242" z="-0.07763542" cardinality="1" pinned="false">
+        <cluster index="9" />
+        <cluster index="38" />
+        <region index="0" />
+      </node>
+      <node index="39" x="0.2049428" y="-0.2530417" z="0.208027" cardinality="1" pinned="false">
+        <cluster index="13" />
+        <cluster index="39" />
+        <region index="0" />
+      </node>
+      <node index="40" x="0.2049428" y="0.2591184" z="0.2004067" cardinality="1" pinned="false">
+        <cluster index="8" />
+        <cluster index="40" />
+        <region index="0" />
+      </node>
+      <node index="41" x="0.2049429" y="0.004873229" z="0.3275386" cardinality="1" pinned="false">
+        <cluster index="7" />
+        <cluster index="41" />
+        <region index="0" />
+      </node>
+      <node index="42" x="0.000160141" y="-0.2471479" z="0.2584959" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="43" x="0.000160141" y="-0.2471476" z="-0.2584963" cardinality="1" pinned="false">
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="44" x="0.000160141" y="0.005350007" z="-0.3575941" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="25" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="45" x="0.000160141" y="0.3576341" z="2.29E-07" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="23" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="46" x="0.000160141" y="0.2547697" z="0.2509871" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="47" x="0.000160141" y="0.005349737" z="0.3575941" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="42" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="48" x="0.000160141" y="0.2547699" z="-0.2509869" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="24" />
+        <cluster index="44" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="49" x="0.000160141" y="-0.3574742" z="-0.01069916" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="42" />
+        <cluster index="43" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+    </PhysicsNodeGraph>
+    <PhysicsNodeGraph numNodes="50" numUniqueNodes="50" name="x0_tyre_fl" generated="false">
+      <node index="0" x="-0.1322249" y="-0.2680049" z="-0.2177532" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="11" />
+        <cluster index="48" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="1" x="-0.1322249" y="-0.1525806" z="0.3097337" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="13" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="2" x="-0.1322249" y="0.147067" z="0.3124231" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="3" x="-0.1322249" y="0.3359966" z="0.07982644" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="9" />
+        <cluster index="44" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="4" x="-0.1322248" y="-0.3373047" z="0.0737828" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="47" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="5" x="-0.1322248" y="0.2719411" z="-0.2129066" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="10" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="6" x="-0.1322248" y="0.003135185" z="-0.3453422" cardinality="1" pinned="false">
+        <cluster index="6" />
+        <cluster index="12" />
+        <cluster index="42" />
+        <region index="2" />
+      </node>
+      <node index="7" x="0.1325444" y="-0.338222" z="-0.06982201" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="48" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="8" x="0.1325444" y="0.007266464" z="0.3452727" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="9" x="0.1325444" y="0.2745153" z="0.209608" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="9" />
+        <cluster index="44" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="10" x="0.1325444" y="0.3350755" z="-0.08392107" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="10" />
+        <cluster index="43" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="11" x="0.1325444" y="-0.1563019" z="-0.3080069" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="11" />
+        <cluster index="42" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="12" x="0.1325445" y="0.1433438" z="-0.3142813" cardinality="1" pinned="false">
+        <cluster index="12" />
+        <cluster index="42" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="13" x="0.1325446" y="-0.2654273" z="0.2209145" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="13" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="14" x="-0.1590357" y="-0.2470051" z="-0.2132865" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="28" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="15" x="-0.1590357" y="0.01274888" z="-0.3260982" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="33" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="16" x="-0.1590356" y="-0.3207592" z="0.06013444" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="0" />
+      </node>
+      <node index="17" x="-0.1590356" y="0.2629027" z="-0.1933513" cardinality="1" pinned="false">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="18" x="-0.1590356" y="-0.1529751" z="0.2882729" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="29" />
+        <cluster index="30" />
+        <region index="0" />
+      </node>
+      <node index="19" x="-0.1590356" y="0.3150853" z="0.08499292" cardinality="1" pinned="false">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="31" />
+        <cluster index="32" />
+        <region index="0" />
+      </node>
+      <node index="20" x="-0.1590356" y="0.1300022" z="0.299336" cardinality="1" pinned="false">
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="0" />
+      </node>
+      <node index="21" x="0.1576818" y="0.2479554" z="0.2140639" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="37" />
+        <cluster index="38" />
+        <region index="1" />
+      </node>
+      <node index="22" x="0.1576818" y="-0.01276421" z="0.327326" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="23" x="0.1576819" y="0.3219594" z="-0.06039284" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="38" />
+        <cluster index="39" />
+        <region index="1" />
+      </node>
+      <node index="24" x="0.1576819" y="-0.2638721" z="0.1941052" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <region index="1" />
+      </node>
+      <node index="25" x="0.157682" y="0.1535213" z="-0.2893725" cardinality="1" pinned="false">
+        <cluster index="25" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="26" x="0.157682" y="-0.3162791" z="-0.08528093" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="27" x="0.1576821" y="-0.1305217" z="-0.3004485" cardinality="1" pinned="false">
+        <cluster index="27" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="28" x="-0.169555" y="-0.2357453" z="-0.03319407" cardinality="1" pinned="true">
+        <cluster index="14" />
+        <cluster index="16" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="29" x="-0.169555" y="-0.1729371" z="0.1636167" cardinality="1" pinned="true">
+        <cluster index="16" />
+        <cluster index="18" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="0" />
+      </node>
+      <node index="30" x="-0.169555" y="0.0200963" z="0.2372209" cardinality="1" pinned="true">
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <region index="0" />
+      </node>
+      <node index="31" x="-0.169555" y="0.1979966" z="0.1321927" cardinality="1" pinned="true">
+        <cluster index="19" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="0" />
+      </node>
+      <node index="32" x="-0.169555" y="0.2268014" z="-0.07237924" cardinality="1" pinned="true">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="31" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="33" x="-0.169555" y="0.0848201" z="-0.2224482" cardinality="1" pinned="true">
+        <cluster index="15" />
+        <cluster index="17" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="34" x="-0.169555" y="-0.1210326" z="-0.2050092" cardinality="1" pinned="true">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="35" x="0.1698745" y="-0.2357452" z="-0.03319444" cardinality="1" pinned="true">
+        <cluster index="24" />
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="36" x="0.1698745" y="-0.1729371" z="0.1636166" cardinality="1" pinned="true">
+        <cluster index="22" />
+        <cluster index="24" />
+        <cluster index="26" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="37" x="0.1698745" y="0.020096" z="0.2372209" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="24" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="38" x="0.1698745" y="0.1979965" z="0.132193" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="23" />
+        <cluster index="38" />
+        <region index="1" />
+      </node>
+      <node index="39" x="0.1698745" y="0.2268014" z="-0.07237901" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="23" />
+        <cluster index="25" />
+        <cluster index="38" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="40" x="0.1698745" y="0.08482023" z="-0.222448" cardinality="1" pinned="true">
+        <cluster index="23" />
+        <cluster index="25" />
+        <cluster index="27" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="41" x="0.1698745" y="-0.1210324" z="-0.2050093" cardinality="1" pinned="true">
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="42" x="0.000159798" y="0.003216095" z="-0.3582813" cardinality="1" pinned="false">
+        <cluster index="6" />
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="42" />
+        <region index="2" />
+      </node>
+      <node index="43" x="0.000159798" y="0.253732" z="-0.252974" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="10" />
+        <cluster index="12" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="44" x="0.000159798" y="0.3582892" z="-0.00214407" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="5" />
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="45" x="0.000159798" y="0.2567414" z="0.2499192" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="3" />
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="46" x="0.000159798" y="0.007503433" z="0.3582171" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="47" x="0.000159798" y="-0.2611865" z="0.2452703" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="4" />
+        <cluster index="13" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="48" x="0.000159798" y="-0.3581932" z="-0.00857542" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="13" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="49" x="0.000159798" y="-0.2491501" z="-0.257488" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="7" />
+        <cluster index="11" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+    </PhysicsNodeGraph>
+    <PhysicsNodeGraph numNodes="50" numUniqueNodes="50" name="x0_tyre_fr" generated="false">
+      <node index="0" x="-0.1322249" y="-0.2680049" z="-0.2177532" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="11" />
+        <cluster index="48" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="1" x="-0.1322249" y="-0.1525806" z="0.3097337" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="13" />
+        <cluster index="46" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="2" x="-0.1322249" y="0.147067" z="0.3124231" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="45" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="3" x="-0.1322249" y="0.3359966" z="0.07982644" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="9" />
+        <cluster index="44" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="4" x="-0.1322248" y="-0.3373047" z="0.0737828" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="47" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="5" x="-0.1322248" y="0.2719411" z="-0.2129066" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="10" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="6" x="-0.1322248" y="0.003135185" z="-0.3453422" cardinality="1" pinned="false">
+        <cluster index="6" />
+        <cluster index="12" />
+        <cluster index="42" />
+        <region index="2" />
+      </node>
+      <node index="7" x="0.1325444" y="-0.338222" z="-0.06982201" cardinality="1" pinned="false">
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="48" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="8" x="0.1325444" y="0.007266464" z="0.3452727" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="9" x="0.1325444" y="0.2745153" z="0.209608" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="9" />
+        <cluster index="44" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="10" x="0.1325444" y="0.3350755" z="-0.08392107" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="10" />
+        <cluster index="43" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="11" x="0.1325444" y="-0.1563019" z="-0.3080069" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="11" />
+        <cluster index="42" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+      <node index="12" x="0.1325445" y="0.1433438" z="-0.3142813" cardinality="1" pinned="false">
+        <cluster index="12" />
+        <cluster index="42" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="13" x="0.1325446" y="-0.2654273" z="0.2209145" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="13" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="14" x="-0.1590357" y="-0.2470051" z="-0.2132865" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="28" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="15" x="-0.1590357" y="0.01274888" z="-0.3260982" cardinality="1" pinned="false">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="33" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="16" x="-0.1590356" y="-0.3207592" z="0.06013444" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="0" />
+      </node>
+      <node index="17" x="-0.1590356" y="0.2629027" z="-0.1933513" cardinality="1" pinned="false">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="18" x="-0.1590356" y="-0.1529751" z="0.2882729" cardinality="1" pinned="false">
+        <cluster index="16" />
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="29" />
+        <cluster index="30" />
+        <region index="0" />
+      </node>
+      <node index="19" x="-0.1590356" y="0.3150853" z="0.08499292" cardinality="1" pinned="false">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="31" />
+        <cluster index="32" />
+        <region index="0" />
+      </node>
+      <node index="20" x="-0.1590356" y="0.1300022" z="0.299336" cardinality="1" pinned="false">
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="0" />
+      </node>
+      <node index="21" x="0.1576818" y="0.2479554" z="0.2140639" cardinality="1" pinned="false">
+        <cluster index="21" />
+        <cluster index="37" />
+        <cluster index="38" />
+        <region index="1" />
+      </node>
+      <node index="22" x="0.1576818" y="-0.01276421" z="0.327326" cardinality="1" pinned="false">
+        <cluster index="22" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="23" x="0.1576819" y="0.3219594" z="-0.06039284" cardinality="1" pinned="false">
+        <cluster index="23" />
+        <cluster index="38" />
+        <cluster index="39" />
+        <region index="1" />
+      </node>
+      <node index="24" x="0.1576819" y="-0.2638721" z="0.1941052" cardinality="1" pinned="false">
+        <cluster index="24" />
+        <cluster index="35" />
+        <cluster index="36" />
+        <region index="1" />
+      </node>
+      <node index="25" x="0.157682" y="0.1535213" z="-0.2893725" cardinality="1" pinned="false">
+        <cluster index="25" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="26" x="0.157682" y="-0.3162791" z="-0.08528093" cardinality="1" pinned="false">
+        <cluster index="26" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="27" x="0.1576821" y="-0.1305217" z="-0.3004485" cardinality="1" pinned="false">
+        <cluster index="27" />
+        <cluster index="40" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="28" x="-0.169555" y="-0.2357453" z="-0.03319407" cardinality="1" pinned="true">
+        <cluster index="14" />
+        <cluster index="16" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="29" x="-0.169555" y="-0.1729371" z="0.1636167" cardinality="1" pinned="true">
+        <cluster index="16" />
+        <cluster index="18" />
+        <cluster index="28" />
+        <cluster index="29" />
+        <region index="0" />
+      </node>
+      <node index="30" x="-0.169555" y="0.0200963" z="0.2372209" cardinality="1" pinned="true">
+        <cluster index="18" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <region index="0" />
+      </node>
+      <node index="31" x="-0.169555" y="0.1979966" z="0.1321927" cardinality="1" pinned="true">
+        <cluster index="19" />
+        <cluster index="20" />
+        <cluster index="30" />
+        <cluster index="31" />
+        <region index="0" />
+      </node>
+      <node index="32" x="-0.169555" y="0.2268014" z="-0.07237924" cardinality="1" pinned="true">
+        <cluster index="17" />
+        <cluster index="19" />
+        <cluster index="31" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="33" x="-0.169555" y="0.0848201" z="-0.2224482" cardinality="1" pinned="true">
+        <cluster index="15" />
+        <cluster index="17" />
+        <cluster index="32" />
+        <cluster index="33" />
+        <region index="0" />
+      </node>
+      <node index="34" x="-0.169555" y="-0.1210326" z="-0.2050092" cardinality="1" pinned="true">
+        <cluster index="14" />
+        <cluster index="15" />
+        <cluster index="34" />
+        <region index="0" />
+      </node>
+      <node index="35" x="0.1698745" y="-0.2357452" z="-0.03319444" cardinality="1" pinned="true">
+        <cluster index="24" />
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="36" x="0.1698745" y="-0.1729371" z="0.1636166" cardinality="1" pinned="true">
+        <cluster index="22" />
+        <cluster index="24" />
+        <cluster index="26" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="37" x="0.1698745" y="0.020096" z="0.2372209" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="24" />
+        <cluster index="36" />
+        <cluster index="37" />
+        <region index="1" />
+      </node>
+      <node index="38" x="0.1698745" y="0.1979965" z="0.132193" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="22" />
+        <cluster index="23" />
+        <cluster index="38" />
+        <region index="1" />
+      </node>
+      <node index="39" x="0.1698745" y="0.2268014" z="-0.07237901" cardinality="1" pinned="true">
+        <cluster index="21" />
+        <cluster index="23" />
+        <cluster index="25" />
+        <cluster index="38" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="40" x="0.1698745" y="0.08482023" z="-0.222448" cardinality="1" pinned="true">
+        <cluster index="23" />
+        <cluster index="25" />
+        <cluster index="27" />
+        <cluster index="39" />
+        <cluster index="40" />
+        <region index="1" />
+      </node>
+      <node index="41" x="0.1698745" y="-0.1210324" z="-0.2050093" cardinality="1" pinned="true">
+        <cluster index="25" />
+        <cluster index="26" />
+        <cluster index="27" />
+        <cluster index="35" />
+        <cluster index="41" />
+        <region index="1" />
+      </node>
+      <node index="42" x="0.000159798" y="0.003216095" z="-0.3582813" cardinality="1" pinned="false">
+        <cluster index="6" />
+        <cluster index="11" />
+        <cluster index="12" />
+        <cluster index="42" />
+        <region index="2" />
+      </node>
+      <node index="43" x="0.000159798" y="0.253732" z="-0.252974" cardinality="1" pinned="false">
+        <cluster index="5" />
+        <cluster index="6" />
+        <cluster index="10" />
+        <cluster index="12" />
+        <cluster index="43" />
+        <region index="2" />
+      </node>
+      <node index="44" x="0.000159798" y="0.3582892" z="-0.00214407" cardinality="1" pinned="false">
+        <cluster index="3" />
+        <cluster index="5" />
+        <cluster index="9" />
+        <cluster index="10" />
+        <cluster index="44" />
+        <region index="2" />
+      </node>
+      <node index="45" x="0.000159798" y="0.2567414" z="0.2499192" cardinality="1" pinned="false">
+        <cluster index="2" />
+        <cluster index="3" />
+        <cluster index="8" />
+        <cluster index="9" />
+        <cluster index="45" />
+        <region index="2" />
+      </node>
+      <node index="46" x="0.000159798" y="0.007503433" z="0.3582171" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="2" />
+        <cluster index="8" />
+        <cluster index="46" />
+        <region index="2" />
+      </node>
+      <node index="47" x="0.000159798" y="-0.2611865" z="0.2452703" cardinality="1" pinned="false">
+        <cluster index="1" />
+        <cluster index="4" />
+        <cluster index="13" />
+        <cluster index="47" />
+        <region index="2" />
+      </node>
+      <node index="48" x="0.000159798" y="-0.3581932" z="-0.00857542" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="4" />
+        <cluster index="7" />
+        <cluster index="13" />
+        <cluster index="48" />
+        <region index="2" />
+      </node>
+      <node index="49" x="0.000159798" y="-0.2491501" z="-0.257488" cardinality="1" pinned="false">
+        <cluster index="0" />
+        <cluster index="6" />
+        <cluster index="7" />
+        <cluster index="11" />
+        <cluster index="49" />
+        <region index="2" />
+      </node>
+    </PhysicsNodeGraph>
+  </F1TyreDamage>
+  <DebugSystem>
+    <RenderCOM value="false" />
+    <RenderCollShape value="false" />
+    <RenderGrip value="false" />
+    <RenderSuspension value="false" />
+    <RenderSlipAngleGraphs value="false" />
+    <RenderDriftAssist value="false" />
+    <RenderCamber value="false" />
+    <RenderG value="false" />
+    <RenderSurfaceTypes value="false" />
+    <RenderCompound value="false" />
+    <RenderGearRatios value="false" />
+    <EnableFastLoad value="true" />
+    <RaiseCar value="false" />
+    <OverrideTyresFront value="false" />
+    <OverrideTyresRear value="false" />
+    <DefaultTelemetryPreset value="false" />
+    <DefaultConsoleStartupScript value="false" />
+  </DebugSystem>
+  <Turbo>
+    <ZeroBarRate value="500" />
+    <MaxBoostRate value="700" />
+    <MaxBoost value="3" />
+    <RelativeSize value="0.1" />
+    <Acceleration value="500" />
+    <Deceleration value="50" />
+    <BoostEfficiencySpline numVertices="2">
+      <SplineElement x="0" y="1" op="=" />
+      <SplineElement x="3.0" y="1" op="=" />
+    </BoostEfficiencySpline>
+  </Turbo>
+  <EnergyRecoverySystem numCommonTypes="1" numModeTypes="4">
+    <Common>
+      <MaxDeployPower value="120000" />
+      <HarvestLimitMGUK value="2000000" />
+      <DeployLimitMGUK value="4.0e6" />
+      <EnergyStoreCapacity value="4.0e6" />
+      <EnergyHarvestEfficencyMGUH value="2.12" />
+<EnergyHarvestEfficencyMGUK value="0.6" />      <MaxBrakeTorqueMGUK value="1680" />
+      <SpeedDeploySpline numVertices="6">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="27.7778" y="0" op="=" />
+        <SplineElement x="65" y="1" op="=" />
+        <SplineElement x="90" y="1" op="=" />
+        <SplineElement x="100" y="0.6" op="=" />
+        <SplineElement x="110" y="0" op="=" />
+      </SpeedDeploySpline>
+      <SpeedHarvestSpline numVertices="4">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="16" y="0" op="=" />
+        <SplineElement x="16.6667" y="1" op="=" />
+        <SplineElement x="110" y="1" op="=" />
+      </SpeedHarvestSpline>
+      <ChargeDeploySpline numVertices="9">
+        <SplineElement x="0" y="0.3" op="=" />
+        <SplineElement x="0.0298295449" y="0.3207547" op="=" />
+        <SplineElement x="0.0454545468" y="0.352201253" op="=" />
+        <SplineElement x="0.06392045" y="0.440251559" op="=" />
+        <SplineElement x="0.07386363" y="0.5534591" op="=" />
+        <SplineElement x="0.078125" y="0.8050314" op="=" />
+        <SplineElement x="0.08806818" y="0.918239" op="=" />
+        <SplineElement x="0.1" y="1" op="=" />
+        <SplineElement x="1" y="1.0" op="=" />
+      </ChargeDeploySpline>
+      <BaseWearRateES value="1.3E-05" />
+      <ChargeESWearRateSpline numVertices="2">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="1" y="1" op="=" />
+      </ChargeESWearRateSpline>
+      <ESWearCapacityModifierSpline numVertices="3">
+        <SplineElement x="0" y="1.0" op="=" />
+        <SplineElement x="0.5" y="1" op="=" />
+        <SplineElement x="1.0" y="0.5" op="=" />
+      </ESWearCapacityModifierSpline>
+      <SpeedESWearRateSpline numVertices="3">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="9.0" y="0.0" op="=" />
+        <SplineElement x="10.0" y="1.0" op="=" />
+      </SpeedESWearRateSpline>
+      <BaseWearRateMGUK value="5E-05" />
+      <DeploymentMGUKDamageRateSpline numVertices="2">
+        <SplineElement x="0" y="0" op="=" />
+        <SplineElement x="1" y="1" op="=" />
+      </DeploymentMGUKDamageRateSpline>
+      <MGUKDamageMGUKHarvestEfficiencySpline numVertices="3">
+        <SplineElement x="0" y="1.0" op="=" />
+        <SplineElement x="0.5" y="1" op="=" />
+        <SplineElement x="1" y="0.5" op="=" />
+      </MGUKDamageMGUKHarvestEfficiencySpline>
+    </Common>
+    <Mode name="0">
+      <Name value="None" />
+      <FirstGearModifier value="0.0" />
+      <SecondGearModifier value="0.0" />
+      <ThirdGearModifier value="0.0" />
+      <FourthGearModifier value="0.0" />
+      <FifthGearModifier value="0.0" />
+      <SixthGearModifier value="0.0" />
+      <SeventhGearModifier value="0.0" />
+      <EighthGearModifier value="0.0" />
+    </Mode>
+    <Mode name="1">
+      <Name value="Medium" />
+      <FirstGearModifier value="0.0" />
+      <SecondGearModifier value="0.15" />
+      <ThirdGearModifier value="0.15" />
+      <FourthGearModifier value="0.15" />
+      <FifthGearModifier value="0.15" />
+      <SixthGearModifier value="0.15" />
+      <SeventhGearModifier value="0.15" />
+      <EighthGearModifier value="0.15" />
+    </Mode>
+    <Mode name="2">
+      <Name value="Overtake" />
+      <FirstGearModifier value="0.0" />
+      <SecondGearModifier value="1" />
+      <ThirdGearModifier value="1" />
+      <FourthGearModifier value="1" />
+      <FifthGearModifier value="1" />
+      <SixthGearModifier value="1" />
+      <SeventhGearModifier value="1" />
+      <EighthGearModifier value="1" />
+    </Mode>
+    <Mode name="3">
+      <Name value="Hotlap" />
+      <FirstGearModifier value="0" />
+      <SecondGearModifier value="0.6" />
+      <ThirdGearModifier value="0.6" />
+      <FourthGearModifier value="0.6" />
+      <FifthGearModifier value="0.6" />
+      <SixthGearModifier value="0.6" />
+      <SeventhGearModifier value="0.6" />
+      <EighthGearModifier value="0.6" />
+    </Mode>
+  </EnergyRecoverySystem>
+  <Upgrade name="very_low" />
+  <Upgrade name="medium" />
+  <Upgrade name="high" />
+  <Upgrade name="very_high">
+    <Steering>
+      <MaxSteeringLock value="0.383972" />
+    </Steering>
+  </Upgrade>
+  <Upgrade name="radUpgradeEngine">
+    <Engine>
+      <RevsPowerSpline numVertices="12">
+        <SplineElement x="0" y="0" op="+" />
+        <SplineElement x="0" y="0" op="+" />
+        <SplineElement x="0" y="15348" op="+" />
+        <SplineElement x="0" y="29642" op="+" />
+        <SplineElement x="0" y="47272" op="+" />
+        <SplineElement x="0" y="58449" op="+" />
+        <SplineElement x="0" y="58504" op="+" />
+        <SplineElement x="0" y="70631" op="+" />
+        <SplineElement x="0" y="71586" op="+" />
+        <SplineElement x="0" y="70770" op="+" />
+        <SplineElement x="0" y="69338" op="+" />
+        <SplineElement x="0" y="58950" op="+" />
+      </RevsPowerSpline>
+      <RevsEngineBrakingSpline numVertices="8">
+        <SplineElement x="0" y="2" op="+" />
+        <SplineElement x="0" y="3" op="+" />
+        <SplineElement x="0" y="6" op="+" />
+        <SplineElement x="0" y="8" op="+" />
+        <SplineElement x="0" y="10" op="+" />
+        <SplineElement x="0" y="13" op="+" />
+        <SplineElement x="0" y="14" op="+" />
+        <SplineElement x="0" y="14" op="+" />
+      </RevsEngineBrakingSpline>
+    </Engine>
+    <GearBox>
+      <MaxBaulkTorque1st value="5500" />
+      <MaxBaulkTorque2nd value="5450" />
+      <MaxBaulkTorque3rd value="5400" />
+      <MaxBaulkTorque4th value="5350" />
+      <MaxBaulkTorque5th value="5312" />
+      <MaxBaulkTorque6th value="4502" />
+      <MaxBaulkTorque7th value="3996" />
+      <MaxBaulkTorque8th value="3555" />
+    </GearBox>
+    <FuelTank>
+      <FuelBsfcMax value="0.88" op="*" />
+      <FuelBsfcMin value="0.885" op="*" />
+      <FuelOptimalTorque value="650" />
+      <FuelTorqueLinear value="1.5" op="*" />
+    </FuelTank>
+  </Upgrade>
+  <Upgrade name="radUpgradeFuelConsumption">
+    <FuelECU>
+      <FuelBurnScaleLean value="0.8500001" op="*" />
+      <FuelBurnScaleStandard value="0.85" op="*" />
+      <FuelBurnScaleRich value="0.85" op="*" />
+      <FuelBurnScaleMax value="0.85" op="*" />
+    </FuelECU>
+  </Upgrade>
+  <Upgrade name="radUpgradeERS">
+    <EnergyRecoverySystem numCommonTypes="1">
+      <Common>
+        <EnergyHarvestEfficencyMGUH value="3" op="*" />
+        <EnergyHarvestEfficencyMGUK value="0.375" op="*" />
+      </Common>
+    </EnergyRecoverySystem>
+  </Upgrade>
+  <Upgrade name="radUpgradeFrontDownforce">
+    <F1Aero>
+      <FrontCoeffLiftMultiplier value="1.135" op="*" />
+      <FrontWingCoL1 value="1.11" op="*" />
+    </F1Aero>
+  </Upgrade>
+  <Upgrade name="radUpgradeRearDownforce">
+    <F1Aero>
+      <RearCoeffLiftMultiplier value="1.135" op="*" />
+      <RearWingCoL1 value="1.11" op="*" />
+    </F1Aero>
+  </Upgrade>
+  <Upgrade name="radUpgradeDrag">
+    <F1Aero>
+      <BodyDragCoeffMin value="0.9100001" op="*" />
+      <BodyDragCoeffMax value="0.91" op="*" />
+      <FrontWingCoD1 value="0.95" op="*" />
+      <RearWingCoD1 value="0.95" op="*" />
+    </F1Aero>
+  </Upgrade>
+  <Upgrade name="radUpgradeDRS">
+    <F1Aero>
+      <m_aero_wing_rear_drag value="0.94" op="*" />
+    </F1Aero>
+  </Upgrade>
+  <Upgrade name="radUpgradeWeightReduction">
+    <Chassis>
+      <Mass value="27" op="-" />
+    </Chassis>
+  </Upgrade>
+  <Upgrade name="radUpgradeWeightRedistribution">
+    <Chassis>
+      <COMY value="0.035" op="+" />
+    </Chassis>
+    <F1Plank>
+      <OffsetY value="0.035" op="+" />
+    </F1Plank>
+  </Upgrade>
+  <Upgrade name="radUpgradeTyreWear">
+    <SuspensionSystem numTyreTypes="2">
+      <Tyre name="Rear">
+        <UpgradeWearFactor value="0.825" op="*" />
+      </Tyre>
+      <Tyre name="Front">
+        <UpgradeWearFactor value="0.825" op="*" />
+      </Tyre>
+    </SuspensionSystem>
+  </Upgrade>
+  <Upgrade name="radUpgradeBrakes">
+    <BrakeECU>
+      <BrakeFront value="1.4" op="*" />
+      <BrakeRear value="1.4" op="*" />
+      <BrakeFrontBackwards value="1.4" op="*" />
+      <BrakeRearBackwards value="1.4" op="*" />
+      <BrakeFrontForwards value="1.4" op="*" />
+      <BrakeRearForwards value="1.4" op="*" />
+    </BrakeECU>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearTC">
+    <Engine>
+      <WearTCRate value="0.5" op="*" />
+    </Engine>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearES">
+    <EnergyRecoverySystem numCommonTypes="1">
+      <Common>
+        <BaseWearRateES value="0.5" op="*" />
+      </Common>
+    </EnergyRecoverySystem>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearMGUK">
+    <EnergyRecoverySystem numCommonTypes="1">
+      <Common>
+        <BaseWearRateMGUK value="0.5" op="*" />
+      </Common>
+    </EnergyRecoverySystem>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearMGUH">
+    <Engine>
+      <WearMGUHRate value="0.5" op="*" />
+    </Engine>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearCE">
+    <Engine>
+      <WearCERate value="0.5" op="*" />
+      <WearCEDVibrationRate value="0.5" op="*" />
+    </Engine>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearICE">
+    <Engine>
+      <WearICERate value="0.5" op="*" />
+    </Engine>
+  </Upgrade>
+  <Upgrade name="radUpgradeWearGearBox">
+    <GearBox>
+      <DamageRateMidShift value="0.5" op="*" />
+    </GearBox>
+  </Upgrade>
+</VTF>
